@@ -1,0 +1,1001 @@
+job_title,rating,company_name,location,size,founded,type_of_ownership,industry,sector,revenue,seniority,salary_min,salary_max,salary_avg,description_len,age
+na,3.9,Zillow,Remote,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),na,127,203,165.0,1727,17
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),na,127,203,165.0,1508,44
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,127,203,165.0,550,89
+na,3.9,Sanofi,MA,10000+ Employees,1973,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),na,127,203,165.0,873,49
+data scientist,-1.0,care.ai,Remote,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,127,203,165.0,580,-1
+data scientist,4.2,HRU-Tech,Remote,201 to 500 Employees,1979,Company - Private,HR Consulting,Human Resources & Staffing,$5 to $25 million (USD),na,127,203,165.0,976,43
+data scientist,4.0,Universal Orlando,FL,10000+ Employees,1987,Subsidiary or Business Segment,Hotels & Resorts,Hotels & Travel Accommodation,$1 to $5 billion (USD),na,127,203,165.0,967,35
+data scientist,4.1,Bosch Group,CA,10000+ Employees,1886,Company - Private,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),na,127,203,165.0,815,136
+data scientist,4.0,"Daman, Inc.",Remote,51 to 200 Employees,1995,Company - Private,Information Technology Support Services,Information Technology,$25 to $100 million (USD),na,127,203,165.0,870,27
+data scientist,4.2,MATRIX Resources,AZ,201 to 500 Employees,1983,Subsidiary or Business Segment,Staffing & Subcontracting,Human Resources & Staffing,$100 to $500 million (USD),na,127,203,165.0,778,39
+data scientist,-1.0,"Staffing Pros, a division of VETS-inc.",VA,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,127,203,165.0,493,-1
+data scientist,-1.0,Dallas Limetree LLC,TX,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,127,203,165.0,1250,-1
+data scientist,-1.0,Staffing By Sabri,CA,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,127,203,165.0,580,-1
+data scientist,-1.0,Roc Search,Remote,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,127,203,165.0,624,-1
+data scientist,3.8,Vaco,Remote,501 to 1000 Employees,2002,Company - Private,Business Consulting,Management & Consulting,$500 million to $1 billion (USD),na,127,203,165.0,1889,20
+data scientist,3.7,The Mom Project,Remote,51 to 200 Employees,2016,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,senior,127,203,165.0,4964,6
+data scientist,4.0,Insight Global,Remote,1001 to 5000 Employees,2001,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),na,127,203,165.0,1284,21
+data scientist,4.5,Applied Resource Group,Remote,1 to 50 Employees,2010,Company - Private,HR Consulting,Human Resources & Staffing,$5 to $25 million (USD),senior,127,203,165.0,705,12
+data scientist,5.0,Engtal,Remote,1 to 50 Employees,2017,Company - Private,Staffing & Subcontracting,Human Resources & Staffing,$5 to $25 million (USD),senior,127,203,165.0,752,5
+data scientist,4.1,DISYS - Digital Intelligence Systems,Remote,1001 to 5000 Employees,1994,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),junior,127,203,165.0,549,28
+data scientist,3.9,Primary Talent Partners,Remote,1 to 50 Employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,na,127,203,165.0,759,-1
+data scientist,4.8,"Ursus, Inc.",CA,51 to 200 Employees,2015,Company - Private,Staffing & Subcontracting,Human Resources & Staffing,$25 to $100 million (USD),na,127,203,165.0,518,7
+data analyst,4.0,Insight Global,Remote,1001 to 5000 Employees,2001,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),na,127,203,165.0,437,21
+data scientist,3.8,Atlas,Remote,51 to 200 Employees,1999,Company - Private,Business Consulting,Management & Consulting,$5 to $25 million (USD),na,127,203,165.0,494,23
+data analyst,3.7,The Mom Project,Remote,51 to 200 Employees,2016,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,senior,127,203,165.0,6128,6
+data analyst,3.8,Acara Solutions,NC,10000+ Employees,1957,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,na,127,203,165.0,985,65
+data scientist,3.7,Clinical Management Consultants,CA,1 to 50 Employees,-1,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,na,127,203,165.0,2016,-1
+data scientist,4.1,Brooksource,NJ,501 to 1000 Employees,2000,Company - Private,HR Consulting,Human Resources & Staffing,$100 to $500 million (USD),na,127,203,165.0,555,22
+data scientist,4.2,CyberCoders,CA,201 to 500 Employees,1999,Subsidiary or Business Segment,Staffing & Subcontracting,Human Resources & Staffing,$100 to $500 million (USD),na,127,203,165.0,979,23
+data scientist,4.0,"Pyramid Consulting, Inc",TX,1001 to 5000 Employees,1996,Company - Private,HR Consulting,Human Resources & Staffing,$100 to $500 million (USD),na,127,203,165.0,1285,26
+machine learning engineer,4.0,General Motors,Remote,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),na,127,127,127.0,5028,114
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),na,127,127,127.0,1735,169
+data scientist,3.8,UMass Memorial Health,MA,10000+ Employees,1997,Hospital,Health Care Services & Hospitals,Healthcare,$1 to $5 billion (USD),senior,127,127,127.0,609,25
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,216,60
+data scientist,4.8,"Point Digital Finance, Inc.",CA,201 to 500 Employees,2015,Company - Private,Real Estate,Real Estate,Unknown / Non-Applicable,na,127,127,127.0,565,7
+data engineer,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),na,127,127,127.0,1567,169
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,1138,60
+data analyst,4.3,"TechData Service Company, LLC",Remote,1 to 50 Employees,-1,Company - Private,Information Technology Support Services,Information Technology,Less than $1 million (USD),na,127,127,127.0,698,-1
+data scientist,-1.0,Tech Intellectuals,NY,Unknown,-1,Company - Public,-1,-1,Unknown / Non-Applicable,na,127,127,127.0,458,-1
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,1787,44
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,127,127,127.0,1647,169
+data scientist,4.3,Delta,GA,10000+ Employees,1928,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),na,127,127,127.0,64,94
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,1597,44
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,1723,44
+data scientist,4.4,Indeed,TX,10000+ Employees,2004,Company - Private,Internet & Web Services,Information Technology,$1 to $5 billion (USD),na,127,127,127.0,738,18
+na,3.9,Zillow,Remote,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),na,127,127,127.0,1910,17
+na,3.6,Tesla,CA,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),na,127,127,127.0,631,19
+na,4.1,John Deere,IL,10000+ Employees,1837,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),na,127,127,127.0,1140,185
+data scientist,5.0,The Josef Group Inc.,VA,1 to 50 Employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,na,127,127,127.0,466,-1
+data scientist,-1.0,Bright Apps LLC,CA,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,127,127,127.0,1134,-1
+data scientist,4.1,John Deere,IA,10000+ Employees,1837,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),senior,127,127,127.0,888,185
+data scientist,4.2,The Denzel Group,TX,1 to 50 Employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,na,127,127,127.0,891,-1
+data engineer,3.7,The Mom Project,GA,51 to 200 Employees,2016,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,na,127,127,127.0,2981,6
+data scientist,4.1,HKA Enterprises,SC,1001 to 5000 Employees,1977,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,na,127,127,127.0,956,45
+data scientist,3.9,Apex Systems,OH,1001 to 5000 Employees,1995,Company - Public,Enterprise Software & Network Solutions,Information Technology,$1 to $5 billion (USD),na,127,127,127.0,1970,27
+data scientist,4.0,Harnham,Remote,51 to 200 Employees,2006,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),senior,127,127,127.0,604,16
+data scientist,-1.0,"Computer Enterprises, Inc. (CEI)",Remote,Unknown,-1,Company - Public,-1,-1,Unknown / Non-Applicable,senior,127,127,127.0,724,-1
+data scientist,4.0,Harnham,NY,51 to 200 Employees,2006,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),na,127,127,127.0,417,16
+data scientist,3.8,Vaco,Remote,501 to 1000 Employees,2002,Company - Private,Business Consulting,Management & Consulting,$500 million to $1 billion (USD),na,127,127,127.0,500,20
+data scientist,5.0,Engtal,Remote,1 to 50 Employees,2017,Company - Private,Staffing & Subcontracting,Human Resources & Staffing,$5 to $25 million (USD),na,127,127,127.0,621,5
+data scientist,3.8,BOEING,WA,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),na,96,131,113.5,4773,106
+machine learning engineer,4.0,General Motors,Remote,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),na,96,131,113.5,5028,114
+na,3.2,LegalMatch,NV,51 to 200 Employees,1999,Company - Private,Legal,Legal,$25 to $100 million (USD),na,96,131,113.5,761,23
+data engineer,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),na,96,131,113.5,1460,169
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,96,131,113.5,1647,169
+data engineer,4.2,Peterson Technology Partners,IL,201 to 500 Employees,1997,Contract,Information Technology Support Services,Information Technology,$25 to $100 million (USD),na,96,131,113.5,742,25
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),na,96,131,113.5,2283,169
+machine learning engineer,-1.0,Manifold Valley,CA,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,96,131,113.5,592,-1
+na,4.2,Peterson Technology Partners,IL,201 to 500 Employees,1997,Contract,Information Technology Support Services,Information Technology,$25 to $100 million (USD),na,96,131,113.5,898,25
+data scientist,4.3,Delta,GA,10000+ Employees,1928,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),na,96,131,113.5,64,94
+data scientist,4.0,Veritone,CA,201 to 500 Employees,2014,Company - Public,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),senior,96,131,113.5,1141,8
+data scientist,3.3,SPECTRUM,CO,10000+ Employees,2016,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),na,96,131,113.5,4678,6
+data engineer,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,96,131,113.5,1442,169
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,96,131,113.5,1138,60
+data scientist,4.3,JDSAT,VA,1 to 50 Employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,na,96,131,113.5,1325,-1
+data analyst,4.0,Milpitas Unified School District,CA,1001 to 5000 Employees,1969,School / School District,Preschools & Child Care Services,Education,$100 to $500 million (USD),na,96,131,113.5,970,53
+na,3.9,Zillow,Remote,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),na,96,131,113.5,1910,17
+na,4.1,John Deere,IL,10000+ Employees,1837,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),na,96,131,113.5,1140,185
+na,3.6,Tesla,CA,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),na,96,131,113.5,631,19
+data scientist,5.0,The Josef Group Inc.,VA,1 to 50 Employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,na,96,131,113.5,466,-1
+data scientist,-1.0,Bright Apps LLC,CA,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,96,131,113.5,1134,-1
+machine learning engineer,4.2,Meta,CA,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),na,96,131,113.5,1711,18
+data scientist,4.4,Indeed,TX,10000+ Employees,2004,Company - Private,Internet & Web Services,Information Technology,$1 to $5 billion (USD),na,96,131,113.5,738,18
+data engineer,3.7,The Mom Project,GA,51 to 200 Employees,2016,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,na,96,131,113.5,2981,6
+data scientist,4.2,CyberCoders,NY,201 to 500 Employees,1999,Subsidiary or Business Segment,Staffing & Subcontracting,Human Resources & Staffing,$100 to $500 million (USD),na,96,131,113.5,916,23
+data scientist,4.0,Harnham,NY,51 to 200 Employees,2006,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),na,96,131,113.5,417,16
+machine learning engineer,-1.0,Roc Search,TX,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,96,131,113.5,434,-1
+data scientist,3.9,Apex Systems,OH,1001 to 5000 Employees,1995,Company - Public,Enterprise Software & Network Solutions,Information Technology,$1 to $5 billion (USD),na,96,131,113.5,1970,27
+data scientist,5.0,Engtal,Remote,1 to 50 Employees,2017,Company - Private,Staffing & Subcontracting,Human Resources & Staffing,$5 to $25 million (USD),na,96,131,113.5,1056,5
+data scientist,4.2,Mars,TN,10000+ Employees,1911,Company - Private,Food & Beverage Manufacturing,Manufacturing,$10+ billion (USD),senior,96,131,113.5,1009,111
+data scientist,4.5,Continental Finance Company,DE,51 to 200 Employees,2005,Company - Private,Banking & Lending,Financial Services,$5 to $25 million (USD),na,77,116,96.5,1008,17
+data scientist,3.5,Amentum,DC,10000+ Employees,-1,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,na,77,116,96.5,1092,-1
+data engineer,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),na,77,116,96.5,1460,169
+data analyst,3.7,Coin Cloud,NV,201 to 500 Employees,2014,Company - Private,Financial Transaction Processing,Financial Services,Unknown / Non-Applicable,na,77,116,96.5,552,8
+data engineer,4.2,Peterson Technology Partners,IL,201 to 500 Employees,1997,Contract,Information Technology Support Services,Information Technology,$25 to $100 million (USD),na,77,116,96.5,742,25
+na,3.2,LegalMatch,NV,51 to 200 Employees,1999,Company - Private,Legal,Legal,$25 to $100 million (USD),na,77,116,96.5,761,23
+data scientist,-1.0,EpochGeo,DC,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,77,116,96.5,977,-1
+data scientist,4.3,JDSAT,VA,1 to 50 Employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,na,77,116,96.5,1325,-1
+na,4.2,Peterson Technology Partners,IL,201 to 500 Employees,1997,Contract,Information Technology Support Services,Information Technology,$25 to $100 million (USD),na,77,116,96.5,898,25
+machine learning engineer,-1.0,Manifold Valley,CA,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,77,116,96.5,592,-1
+data engineer,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,77,116,96.5,1442,169
+data scientist,3.7,Coin Cloud,NV,201 to 500 Employees,2014,Company - Private,Financial Transaction Processing,Financial Services,Unknown / Non-Applicable,na,77,116,96.5,435,8
+data analyst,4.0,Milpitas Unified School District,CA,1001 to 5000 Employees,1969,School / School District,Preschools & Child Care Services,Education,$100 to $500 million (USD),na,77,116,96.5,970,53
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,77,116,96.5,1647,169
+data scientist,4.1,Navy Federal Credit Union,FL,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,77,116,96.5,550,89
+data scientist,3.3,SPECTRUM,CO,10000+ Employees,2016,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),na,77,116,96.5,4678,6
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,77,116,96.5,1138,60
+data scientist,2.9,"GTT, LLC",CA,Unknown,-1,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,na,77,116,96.5,5422,-1
+data scientist,-1.0,Specific Diagnostics a bioMerieux Company,CA,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,77,116,96.5,1024,-1
+data scientist,5.0,The Josef Group Inc.,VA,1 to 50 Employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,na,77,116,96.5,466,-1
+data scientist,4.2,CyberCoders,NY,201 to 500 Employees,1999,Subsidiary or Business Segment,Staffing & Subcontracting,Human Resources & Staffing,$100 to $500 million (USD),na,77,116,96.5,916,23
+data analyst,4.1,Censeo Consulting Group,Remote,51 to 200 Employees,2003,Company - Private,Business Consulting,Management & Consulting,$5 to $25 million (USD),junior,77,116,96.5,838,19
+machine learning engineer,-1.0,Roc Search,TX,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,77,116,96.5,434,-1
+data scientist,4.0,Harnham,NY,51 to 200 Employees,2006,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),na,77,116,96.5,417,16
+data scientist,5.0,Engtal,Remote,1 to 50 Employees,2017,Company - Private,Staffing & Subcontracting,Human Resources & Staffing,$5 to $25 million (USD),na,77,116,96.5,1056,5
+na,4.2,CyberCoders,CA,201 to 500 Employees,1999,Subsidiary or Business Segment,Staffing & Subcontracting,Human Resources & Staffing,$100 to $500 million (USD),na,77,116,96.5,909,23
+data scientist,3.9,Apex Systems,OH,1001 to 5000 Employees,1995,Company - Public,Enterprise Software & Network Solutions,Information Technology,$1 to $5 billion (USD),na,77,116,96.5,1970,27
+machine learning engineer,4.0,Harnham,NY,51 to 200 Employees,2006,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),na,77,116,96.5,430,16
+na,4.4,Redbock,Remote,51 to 200 Employees,2010,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,77,116,96.5,852,12
+data scientist,4.8,"Ursus, Inc.",NY,51 to 200 Employees,2015,Company - Private,Staffing & Subcontracting,Human Resources & Staffing,$25 to $100 million (USD),na,77,116,96.5,635,7
+na,3.4,Topaz Labs,TX,1 to 50 Employees,2008,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,na,135,175,155.0,731,14
+na,4.2,Capital One,NY,10000+ Employees,1994,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),na,135,175,155.0,2005,28
+machine learning engineer,4.1,"Garmin International, Inc.",AZ,10000+ Employees,1989,Company - Public,Consumer Product Manufacturing,Manufacturing,$1 to $5 billion (USD),senior,135,175,155.0,800,33
+data scientist,4.4,Indeed,TX,10000+ Employees,2004,Company - Private,Internet & Web Services,Information Technology,$1 to $5 billion (USD),na,135,175,155.0,677,18
+data scientist,3.9,Aon,GA,10000+ Employees,1892,Company - Public,Insurance Agencies & Brokerages,Insurance,$10+ billion (USD),senior,135,175,155.0,4997,130
+data scientist,3.7,Citizens,MA,10000+ Employees,1828,Company - Public,Banking & Lending,Financial Services,$5 to $10 billion (USD),senior,135,175,155.0,2196,194
+data scientist,4.5,Continental Finance Company,DE,51 to 200 Employees,2005,Company - Private,Banking & Lending,Financial Services,$5 to $25 million (USD),na,135,175,155.0,1008,17
+data scientist,4.1,Navy Federal Credit Union,FL,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,135,175,155.0,550,89
+data scientist,3.5,Amentum,DC,10000+ Employees,-1,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,na,135,175,155.0,1092,-1
+machine learning engineer,4.0,General Motors,Remote,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),na,135,175,155.0,5028,114
+data scientist,3.8,UMass Memorial Health,MA,10000+ Employees,1997,Hospital,Health Care Services & Hospitals,Healthcare,$1 to $5 billion (USD),senior,135,175,155.0,609,25
+data engineer,-1.0,Auspex LLC,VA,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,135,175,155.0,1319,-1
+data scientist,3.8,BOEING,WA,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),na,135,175,155.0,4773,106
+data scientist,-1.0,Tech Intellectuals,NY,Unknown,-1,Company - Public,-1,-1,Unknown / Non-Applicable,na,135,175,155.0,458,-1
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,135,175,155.0,1850,169
+na,-1.0,RobustPhysics,CA,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,135,175,155.0,1716,-1
+data scientist,3.7,General Dynamics,VA,10000+ Employees,1952,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),senior,135,175,155.0,1458,70
+data engineer,4.2,Peterson Technology Partners,IL,201 to 500 Employees,1997,Contract,Information Technology Support Services,Information Technology,$25 to $100 million (USD),na,135,175,155.0,742,25
+data scientist,4.3,Billtrust US Careers,Remote,501 to 1000 Employees,2001,Company - Public,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,senior,135,175,155.0,820,21
+data scientist,3.6,Trinity Solar Careers,NJ,1001 to 5000 Employees,1994,Company - Private,Energy & Utilities,"Energy, Mining & Utilities",$100 to $500 million (USD),na,135,175,155.0,636,28
+data scientist,3.2,Lidl US,VA,5001 to 10000 Employees,1973,Company - Private,Grocery Stores,Retail & Wholesale,Unknown / Non-Applicable,junior,135,175,155.0,98,49
+data scientist,3.8,Pacific Life,CA,1001 to 5000 Employees,1868,Subsidiary or Business Segment,Insurance Carriers,Insurance,$5 to $10 billion (USD),senior,135,175,155.0,5869,154
+na,4.2,Peterson Technology Partners,IL,201 to 500 Employees,1997,Contract,Information Technology Support Services,Information Technology,$25 to $100 million (USD),na,135,175,155.0,898,25
+data scientist,4.8,"Point Digital Finance, Inc.",CA,201 to 500 Employees,2015,Company - Private,Real Estate,Real Estate,Unknown / Non-Applicable,na,135,175,155.0,565,7
+data scientist,-1.0,EpochGeo,DC,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,135,175,155.0,977,-1
+data scientist,3.3,SPECTRUM,CO,10000+ Employees,2016,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),senior,135,175,155.0,1920,6
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,135,175,155.0,1647,169
+data scientist,4.1,Navy Federal Credit Union,FL,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,135,175,155.0,550,89
+data engineer,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,135,175,155.0,1606,169
+data scientist,3.6,WM,TX,10000+ Employees,1971,Company - Public,Building & Personnel Services,Management & Consulting,$10+ billion (USD),senior,135,175,155.0,772,51
+na,4.2,Capital One,IL,10000+ Employees,1994,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),na,113,177,145.0,2005,28
+na,3.4,Topaz Labs,TX,1 to 50 Employees,2008,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,na,113,177,145.0,731,14
+machine learning engineer,4.1,"Garmin International, Inc.",AZ,10000+ Employees,1989,Company - Public,Consumer Product Manufacturing,Manufacturing,$1 to $5 billion (USD),senior,113,177,145.0,800,33
+machine learning engineer,-1.0,"EDDA Technology, Inc.",NJ,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,113,177,145.0,474,-1
+data scientist,3.9,Aon,GA,10000+ Employees,1892,Company - Public,Insurance Agencies & Brokerages,Insurance,$10+ billion (USD),senior,113,177,145.0,4997,130
+data scientist,3.7,Citizens,MA,10000+ Employees,1828,Company - Public,Banking & Lending,Financial Services,$5 to $10 billion (USD),senior,113,177,145.0,2196,194
+machine learning engineer,4.0,General Motors,Remote,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),na,113,177,145.0,5028,114
+data scientist,3.8,BOEING,WA,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),na,113,177,145.0,4773,106
+data scientist,3.8,UMass Memorial Health,MA,10000+ Employees,1997,Hospital,Health Care Services & Hospitals,Healthcare,$1 to $5 billion (USD),senior,113,177,145.0,609,25
+data scientist,4.1,Navy Federal Credit Union,FL,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,113,177,145.0,550,89
+data scientist,-1.0,Tech Intellectuals,NY,Unknown,-1,Company - Public,-1,-1,Unknown / Non-Applicable,na,113,177,145.0,458,-1
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,113,177,145.0,1850,169
+data scientist,4.3,Billtrust US Careers,Remote,501 to 1000 Employees,2001,Company - Public,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,senior,113,177,145.0,820,21
+data scientist,3.2,Lidl US,VA,5001 to 10000 Employees,1973,Company - Private,Grocery Stores,Retail & Wholesale,Unknown / Non-Applicable,junior,113,177,145.0,98,49
+data scientist,3.8,Pacific Life,CA,1001 to 5000 Employees,1868,Subsidiary or Business Segment,Insurance Carriers,Insurance,$5 to $10 billion (USD),senior,113,177,145.0,5869,154
+data scientist,3.6,Trinity Solar Careers,NJ,1001 to 5000 Employees,1994,Company - Private,Energy & Utilities,"Energy, Mining & Utilities",$100 to $500 million (USD),na,113,177,145.0,636,28
+data scientist,3.3,SPECTRUM,CO,10000+ Employees,2016,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),senior,113,177,145.0,1920,6
+data engineer,4.2,Peterson Technology Partners,IL,201 to 500 Employees,1997,Contract,Information Technology Support Services,Information Technology,$25 to $100 million (USD),na,113,177,145.0,742,25
+data scientist,3.7,General Dynamics,VA,10000+ Employees,1952,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),senior,113,177,145.0,1458,70
+na,4.2,Peterson Technology Partners,IL,201 to 500 Employees,1997,Contract,Information Technology Support Services,Information Technology,$25 to $100 million (USD),na,113,177,145.0,898,25
+data scientist,4.8,"Point Digital Finance, Inc.",CA,201 to 500 Employees,2015,Company - Private,Real Estate,Real Estate,Unknown / Non-Applicable,na,113,177,145.0,565,7
+data scientist,3.8,BAE Systems,VA,10000+ Employees,1999,Subsidiary or Business Segment,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),na,113,177,145.0,2769,23
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,113,177,145.0,1647,169
+data engineer,3.9,Disney Media & Entertainment Distribution,CA,10000+ Employees,1923,Company - Public,Film Production,Media & Communication,$10+ billion (USD),senior,113,177,145.0,1200,99
+data scientist,4.3,Delta,GA,10000+ Employees,1928,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),na,113,177,145.0,64,94
+machine learning engineer,-1.0,Hire The Winners,VA,Unknown,-1,Company - Public,-1,-1,Unknown / Non-Applicable,na,113,177,145.0,818,-1
+data scientist,3.6,WM,TX,10000+ Employees,1971,Company - Public,Building & Personnel Services,Management & Consulting,$10+ billion (USD),senior,113,177,145.0,772,51
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,113,177,145.0,1787,44
+data scientist,-1.0,EpochGeo,DC,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,113,177,145.0,977,-1
+machine learning engineer,-1.0,Manifold Valley,CA,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,113,177,145.0,592,-1
+na,4.2,Capital One,VA,10000+ Employees,1994,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),na,104,167,135.5,2005,28
+machine learning engineer,-1.0,"EDDA Technology, Inc.",NJ,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,104,167,135.5,474,-1
+data scientist,3.9,Aon,GA,10000+ Employees,1892,Company - Public,Insurance Agencies & Brokerages,Insurance,$10+ billion (USD),senior,104,167,135.5,4997,130
+machine learning engineer,4.0,General Motors,Remote,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),na,104,167,135.5,5028,114
+data scientist,3.7,Citizens,MA,10000+ Employees,1828,Company - Public,Banking & Lending,Financial Services,$5 to $10 billion (USD),senior,104,167,135.5,2196,194
+data scientist,3.8,BOEING,WA,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),na,104,167,135.5,4773,106
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,104,167,135.5,1850,169
+data scientist,3.2,Lidl US,VA,5001 to 10000 Employees,1973,Company - Private,Grocery Stores,Retail & Wholesale,Unknown / Non-Applicable,junior,104,167,135.5,98,49
+data scientist,3.8,Pacific Life,CA,1001 to 5000 Employees,1868,Subsidiary or Business Segment,Insurance Carriers,Insurance,$5 to $10 billion (USD),senior,104,167,135.5,5869,154
+data scientist,4.8,"Point Digital Finance, Inc.",CA,201 to 500 Employees,2015,Company - Private,Real Estate,Real Estate,Unknown / Non-Applicable,na,104,167,135.5,565,7
+data scientist,4.3,Delta,GA,10000+ Employees,1928,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),na,104,167,135.5,64,94
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,104,167,135.5,1647,169
+na,3.9,Zillow,Remote,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),na,104,167,135.5,1727,17
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),na,104,167,135.5,1508,44
+data scientist,-1.0,Staffing By Sabri,CA,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,104,167,135.5,580,-1
+machine learning engineer,-1.0,Manifold Valley,CA,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,104,167,135.5,592,-1
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,104,167,135.5,1787,44
+data scientist,4.1,Navy Federal Credit Union,FL,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,104,167,135.5,550,89
+data scientist,-1.0,EpochGeo,DC,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,104,167,135.5,977,-1
+data scientist,4.3,Delta,GA,10000+ Employees,1928,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),senior,104,167,135.5,64,94
+data scientist,3.6,WM,TX,10000+ Employees,1971,Company - Public,Building & Personnel Services,Management & Consulting,$10+ billion (USD),senior,104,167,135.5,772,51
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,na,104,167,135.5,1004,4
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,104,167,135.5,1138,60
+data scientist,4.0,Universal Orlando,FL,10000+ Employees,1987,Subsidiary or Business Segment,Hotels & Resorts,Hotels & Travel Accommodation,$1 to $5 billion (USD),na,104,167,135.5,967,35
+data scientist,3.3,SPECTRUM,CO,10000+ Employees,2016,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),na,104,167,135.5,4678,6
+data scientist,3.9,PG&E Corporation,CA,10000+ Employees,1905,Company - Public,Energy & Utilities,"Energy, Mining & Utilities",$10+ billion (USD),na,104,167,135.5,4223,117
+data scientist,4.1,Bosch Group,CA,10000+ Employees,1886,Company - Private,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),na,104,167,135.5,815,136
+machine learning engineer,5.0,"Stratom, Inc.",CO,1 to 50 Employees,-1,Company - Private,Aerospace & Defense,Aerospace & Defense,$1 to $5 million (USD),na,104,167,135.5,911,-1
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,104,167,135.5,910,4
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,104,167,135.5,817,60
+na,4.2,Capital One,GA,10000+ Employees,1994,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),na,86,132,109.0,2005,28
+na,3.4,Topaz Labs,TX,1 to 50 Employees,2008,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,na,86,132,109.0,731,14
+machine learning engineer,4.1,"Garmin International, Inc.",AZ,10000+ Employees,1989,Company - Public,Consumer Product Manufacturing,Manufacturing,$1 to $5 billion (USD),senior,86,132,109.0,800,33
+data scientist,4.4,Indeed,TX,10000+ Employees,2004,Company - Private,Internet & Web Services,Information Technology,$1 to $5 billion (USD),senior,86,132,109.0,1610,18
+data scientist,3.9,Aon,GA,10000+ Employees,1892,Company - Public,Insurance Agencies & Brokerages,Insurance,$10+ billion (USD),senior,86,132,109.0,4997,130
+machine learning engineer,-1.0,"EDDA Technology, Inc.",NJ,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,86,132,109.0,474,-1
+machine learning engineer,4.0,General Motors,Remote,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),na,86,132,109.0,5028,114
+manager,4.0,General Motors,TX,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),senior,86,132,109.0,4554,114
+data scientist,3.8,BOEING,WA,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),na,86,132,109.0,4773,106
+data engineer,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),na,86,132,109.0,1567,169
+data scientist,4.8,"Point Digital Finance, Inc.",CA,201 to 500 Employees,2015,Company - Private,Real Estate,Real Estate,Unknown / Non-Applicable,senior,86,132,109.0,554,7
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),na,86,132,109.0,2283,169
+data scientist,3.2,Lidl US,VA,5001 to 10000 Employees,1973,Company - Private,Grocery Stores,Retail & Wholesale,Unknown / Non-Applicable,junior,86,132,109.0,98,49
+data scientist,4.3,Delta,GA,10000+ Employees,1928,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),na,86,132,109.0,64,94
+data scientist,3.6,Trinity Solar Careers,NJ,1001 to 5000 Employees,1994,Company - Private,Energy & Utilities,"Energy, Mining & Utilities",$100 to $500 million (USD),na,86,132,109.0,636,28
+data scientist,4.8,"Point Digital Finance, Inc.",CA,201 to 500 Employees,2015,Company - Private,Real Estate,Real Estate,Unknown / Non-Applicable,na,86,132,109.0,565,7
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,86,132,109.0,1787,44
+na,3.9,Zillow,Remote,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),na,86,132,109.0,1727,17
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),na,86,132,109.0,1508,44
+data scientist,4.3,Delta,GA,10000+ Employees,1928,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),senior,86,132,109.0,64,94
+data scientist,3.8,Pacific Life,CA,1001 to 5000 Employees,1868,Subsidiary or Business Segment,Insurance Carriers,Insurance,$5 to $10 billion (USD),senior,86,132,109.0,5869,154
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,86,132,109.0,1723,44
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,86,132,109.0,1597,44
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,86,132,109.0,1647,169
+data scientist,3.6,WM,TX,10000+ Employees,1971,Company - Public,Building & Personnel Services,Management & Consulting,$10+ billion (USD),senior,86,132,109.0,772,51
+data scientist,3.3,SPECTRUM,CO,10000+ Employees,2016,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),senior,86,132,109.0,1920,6
+machine learning engineer,-1.0,Manifold Valley,CA,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,86,132,109.0,592,-1
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,na,86,132,109.0,1004,4
+data scientist,-1.0,EpochGeo,DC,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,86,132,109.0,977,-1
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,86,132,109.0,910,4
+machine learning engineer,4.1,"Garmin International, Inc.",AZ,10000+ Employees,1989,Company - Public,Consumer Product Manufacturing,Manufacturing,$1 to $5 billion (USD),senior,92,131,111.5,800,33
+na,4.2,Capital One,NY,10000+ Employees,1994,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),na,92,131,111.5,2005,28
+data scientist,4.4,Indeed,TX,10000+ Employees,2004,Company - Private,Internet & Web Services,Information Technology,$1 to $5 billion (USD),senior,92,131,111.5,1610,18
+data scientist,3.9,Aon,GA,10000+ Employees,1892,Company - Public,Insurance Agencies & Brokerages,Insurance,$10+ billion (USD),senior,92,131,111.5,4997,130
+machine learning engineer,-1.0,"EDDA Technology, Inc.",NJ,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,92,131,111.5,474,-1
+manager,4.0,General Motors,TX,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),senior,92,131,111.5,4554,114
+machine learning engineer,4.0,General Motors,Remote,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),na,92,131,111.5,5028,114
+data engineer,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),na,92,131,111.5,1567,169
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,92,131,111.5,550,89
+data scientist,4.8,"Point Digital Finance, Inc.",CA,201 to 500 Employees,2015,Company - Private,Real Estate,Real Estate,Unknown / Non-Applicable,senior,92,131,111.5,554,7
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),na,92,131,111.5,2283,169
+data scientist,3.2,Lidl US,VA,5001 to 10000 Employees,1973,Company - Private,Grocery Stores,Retail & Wholesale,Unknown / Non-Applicable,junior,92,131,111.5,98,49
+data scientist,3.6,Trinity Solar Careers,NJ,1001 to 5000 Employees,1994,Company - Private,Energy & Utilities,"Energy, Mining & Utilities",$100 to $500 million (USD),na,92,131,111.5,636,28
+data scientist,4.8,"Point Digital Finance, Inc.",CA,201 to 500 Employees,2015,Company - Private,Real Estate,Real Estate,Unknown / Non-Applicable,na,92,131,111.5,565,7
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),na,92,131,111.5,1508,44
+na,3.9,Zillow,Remote,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),na,92,131,111.5,1727,17
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,92,131,111.5,1787,44
+data scientist,3.8,Pacific Life,CA,1001 to 5000 Employees,1868,Subsidiary or Business Segment,Insurance Carriers,Insurance,$5 to $10 billion (USD),senior,92,131,111.5,5869,154
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,92,131,111.5,1647,169
+data scientist,4.3,Delta,GA,10000+ Employees,1928,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),na,92,131,111.5,64,94
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,92,131,111.5,1597,44
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,92,131,111.5,1723,44
+data scientist,3.3,SPECTRUM,CO,10000+ Employees,2016,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),senior,92,131,111.5,1920,6
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,na,92,131,111.5,1004,4
+data scientist,3.6,WM,TX,10000+ Employees,1971,Company - Public,Building & Personnel Services,Management & Consulting,$10+ billion (USD),senior,92,131,111.5,772,51
+machine learning engineer,-1.0,Manifold Valley,CA,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,92,131,111.5,592,-1
+data scientist,4.0,Universal Orlando,FL,10000+ Employees,1987,Subsidiary or Business Segment,Hotels & Resorts,Hotels & Travel Accommodation,$1 to $5 billion (USD),na,92,131,111.5,967,35
+data scientist,4.3,Delta,GA,10000+ Employees,1928,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),senior,92,131,111.5,64,94
+data scientist,-1.0,Staffing By Sabri,CA,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,92,131,111.5,580,-1
+data scientist,-1.0,care.ai,Remote,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,92,131,111.5,580,-1
+na,4.2,Capital One,TX,10000+ Employees,1994,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),na,97,155,126.0,2005,28
+machine learning engineer,4.1,"Garmin International, Inc.",AZ,10000+ Employees,1989,Company - Public,Consumer Product Manufacturing,Manufacturing,$1 to $5 billion (USD),senior,97,155,126.0,800,33
+data scientist,4.4,Indeed,TX,10000+ Employees,2004,Company - Private,Internet & Web Services,Information Technology,$1 to $5 billion (USD),senior,97,155,126.0,1610,18
+data scientist,3.9,Aon,GA,10000+ Employees,1892,Company - Public,Insurance Agencies & Brokerages,Insurance,$10+ billion (USD),senior,97,155,126.0,4997,130
+machine learning engineer,-1.0,"EDDA Technology, Inc.",NJ,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,97,155,126.0,474,-1
+machine learning engineer,4.0,General Motors,Remote,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),na,97,155,126.0,5028,114
+manager,4.0,General Motors,TX,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),senior,97,155,126.0,4554,114
+data engineer,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),na,97,155,126.0,1646,169
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,97,155,126.0,550,89
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,97,155,126.0,1850,169
+data scientist,3.2,Lidl US,VA,5001 to 10000 Employees,1973,Company - Private,Grocery Stores,Retail & Wholesale,Unknown / Non-Applicable,junior,97,155,126.0,98,49
+data scientist,4.8,"Point Digital Finance, Inc.",CA,201 to 500 Employees,2015,Company - Private,Real Estate,Real Estate,Unknown / Non-Applicable,senior,97,155,126.0,554,7
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),na,97,155,126.0,1508,44
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,97,155,126.0,1787,44
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,97,155,126.0,1597,44
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,97,155,126.0,1647,169
+data scientist,4.8,"Point Digital Finance, Inc.",CA,201 to 500 Employees,2015,Company - Private,Real Estate,Real Estate,Unknown / Non-Applicable,na,97,155,126.0,565,7
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,97,155,126.0,1723,44
+data scientist,3.6,Trinity Solar Careers,NJ,1001 to 5000 Employees,1994,Company - Private,Energy & Utilities,"Energy, Mining & Utilities",$100 to $500 million (USD),na,97,155,126.0,636,28
+data scientist,4.3,Delta,GA,10000+ Employees,1928,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),na,97,155,126.0,64,94
+data scientist,3.8,Pacific Life,CA,1001 to 5000 Employees,1868,Subsidiary or Business Segment,Insurance Carriers,Insurance,$5 to $10 billion (USD),senior,97,155,126.0,5869,154
+data scientist,3.3,SPECTRUM,CO,10000+ Employees,2016,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),senior,97,155,126.0,1920,6
+na,3.9,Zillow,Remote,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),na,97,155,126.0,1727,17
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,na,97,155,126.0,1004,4
+data scientist,-1.0,EpochGeo,DC,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,97,155,126.0,977,-1
+data scientist,3.6,WM,TX,10000+ Employees,1971,Company - Public,Building & Personnel Services,Management & Consulting,$10+ billion (USD),senior,97,155,126.0,772,51
+machine learning engineer,-1.0,Manifold Valley,CA,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,97,155,126.0,592,-1
+data scientist,4.0,Universal Orlando,FL,10000+ Employees,1987,Subsidiary or Business Segment,Hotels & Resorts,Hotels & Travel Accommodation,$1 to $5 billion (USD),na,97,155,126.0,967,35
+data scientist,4.3,Delta,GA,10000+ Employees,1928,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),senior,97,155,126.0,64,94
+data scientist,-1.0,care.ai,Remote,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,97,155,126.0,580,-1
+na,4.2,Capital One,NY,10000+ Employees,1994,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),na,118,189,153.5,2005,28
+machine learning engineer,4.1,"Garmin International, Inc.",AZ,10000+ Employees,1989,Company - Public,Consumer Product Manufacturing,Manufacturing,$1 to $5 billion (USD),senior,118,189,153.5,800,33
+data scientist,3.9,Aon,GA,10000+ Employees,1892,Company - Public,Insurance Agencies & Brokerages,Insurance,$10+ billion (USD),senior,118,189,153.5,4997,130
+machine learning engineer,-1.0,"EDDA Technology, Inc.",NJ,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,118,189,153.5,474,-1
+machine learning engineer,4.0,General Motors,Remote,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),na,118,189,153.5,5028,114
+manager,4.0,General Motors,TX,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),senior,118,189,153.5,4554,114
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),na,118,189,153.5,2283,169
+data engineer,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),na,118,189,153.5,1567,169
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,118,189,153.5,550,89
+data scientist,3.2,Lidl US,VA,5001 to 10000 Employees,1973,Company - Private,Grocery Stores,Retail & Wholesale,Unknown / Non-Applicable,junior,118,189,153.5,98,49
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),na,118,189,153.5,1508,44
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,118,189,153.5,1647,169
+data scientist,4.8,"Point Digital Finance, Inc.",CA,201 to 500 Employees,2015,Company - Private,Real Estate,Real Estate,Unknown / Non-Applicable,senior,118,189,153.5,554,7
+data scientist,4.8,"Point Digital Finance, Inc.",CA,201 to 500 Employees,2015,Company - Private,Real Estate,Real Estate,Unknown / Non-Applicable,na,118,189,153.5,565,7
+data scientist,3.8,Pacific Life,CA,1001 to 5000 Employees,1868,Subsidiary or Business Segment,Insurance Carriers,Insurance,$5 to $10 billion (USD),senior,118,189,153.5,5869,154
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1723,44
+data scientist,4.3,Delta,GA,10000+ Employees,1928,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),na,118,189,153.5,64,94
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1597,44
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1787,44
+na,3.9,Zillow,Remote,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),na,118,189,153.5,1727,17
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,na,118,189,153.5,1004,4
+data scientist,3.3,SPECTRUM,CO,10000+ Employees,2016,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),senior,118,189,153.5,1920,6
+data scientist,4.0,Universal Orlando,FL,10000+ Employees,1987,Subsidiary or Business Segment,Hotels & Resorts,Hotels & Travel Accommodation,$1 to $5 billion (USD),na,118,189,153.5,967,35
+data scientist,3.6,WM,TX,10000+ Employees,1971,Company - Public,Building & Personnel Services,Management & Consulting,$10+ billion (USD),senior,118,189,153.5,772,51
+data scientist,-1.0,EpochGeo,DC,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,118,189,153.5,977,-1
+machine learning engineer,-1.0,Manifold Valley,CA,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,118,189,153.5,592,-1
+data scientist,-1.0,care.ai,Remote,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,118,189,153.5,580,-1
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,118,189,153.5,1004,4
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,118,189,153.5,910,4
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,817,60
+na,4.2,Capital One,NY,10000+ Employees,1994,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),na,118,189,153.5,2005,28
+data scientist,3.9,Aon,GA,10000+ Employees,1892,Company - Public,Insurance Agencies & Brokerages,Insurance,$10+ billion (USD),senior,118,189,153.5,4997,130
+machine learning engineer,4.0,General Motors,Remote,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),na,118,189,153.5,5028,114
+machine learning engineer,-1.0,"EDDA Technology, Inc.",NJ,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,118,189,153.5,474,-1
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),na,118,189,153.5,2283,169
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,118,189,153.5,550,89
+data engineer,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),na,118,189,153.5,1567,169
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),na,118,189,153.5,1508,44
+data scientist,3.2,Lidl US,VA,5001 to 10000 Employees,1973,Company - Private,Grocery Stores,Retail & Wholesale,Unknown / Non-Applicable,junior,118,189,153.5,98,49
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,118,189,153.5,1647,169
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1723,44
+data scientist,4.3,Delta,GA,10000+ Employees,1928,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),na,118,189,153.5,64,94
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1787,44
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1597,44
+data scientist,3.3,SPECTRUM,CO,10000+ Employees,2016,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),senior,118,189,153.5,1920,6
+data scientist,4.8,"Point Digital Finance, Inc.",CA,201 to 500 Employees,2015,Company - Private,Real Estate,Real Estate,Unknown / Non-Applicable,na,118,189,153.5,565,7
+na,3.9,Zillow,Remote,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),na,118,189,153.5,1727,17
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,na,118,189,153.5,1004,4
+data scientist,3.6,WM,TX,10000+ Employees,1971,Company - Public,Building & Personnel Services,Management & Consulting,$10+ billion (USD),senior,118,189,153.5,772,51
+data scientist,-1.0,EpochGeo,DC,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,118,189,153.5,977,-1
+data scientist,4.0,Universal Orlando,FL,10000+ Employees,1987,Subsidiary or Business Segment,Hotels & Resorts,Hotels & Travel Accommodation,$1 to $5 billion (USD),na,118,189,153.5,967,35
+data scientist,-1.0,Staffing By Sabri,CA,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,118,189,153.5,580,-1
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1138,60
+data scientist,-1.0,care.ai,Remote,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,118,189,153.5,580,-1
+data scientist,3.3,SPECTRUM,CO,10000+ Employees,2016,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),na,118,189,153.5,4678,6
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,118,189,153.5,910,4
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,817,60
+data scientist,3.9,PG&E Corporation,CA,10000+ Employees,1905,Company - Public,Energy & Utilities,"Energy, Mining & Utilities",$10+ billion (USD),na,118,189,153.5,4223,117
+machine learning engineer,5.0,"Stratom, Inc.",CO,1 to 50 Employees,-1,Company - Private,Aerospace & Defense,Aerospace & Defense,$1 to $5 million (USD),na,118,189,153.5,911,-1
+data scientist,3.1,Frontier,Remote,10000+ Employees,1935,Company - Public,"Cable, Internet & Telephone Providers",Telecommunications,$10+ billion (USD),na,118,189,153.5,490,87
+na,4.2,Capital One,NY,10000+ Employees,1994,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),na,118,189,153.5,2005,28
+data scientist,3.9,Aon,GA,10000+ Employees,1892,Company - Public,Insurance Agencies & Brokerages,Insurance,$10+ billion (USD),senior,118,189,153.5,4997,130
+machine learning engineer,4.0,General Motors,Remote,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),na,118,189,153.5,5028,114
+machine learning engineer,-1.0,"EDDA Technology, Inc.",NJ,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,118,189,153.5,474,-1
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),na,118,189,153.5,2283,169
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,118,189,153.5,550,89
+data engineer,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),na,118,189,153.5,1567,169
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),na,118,189,153.5,1508,44
+data scientist,3.2,Lidl US,VA,5001 to 10000 Employees,1973,Company - Private,Grocery Stores,Retail & Wholesale,Unknown / Non-Applicable,junior,118,189,153.5,98,49
+data scientist,3.6,Trinity Solar Careers,NJ,1001 to 5000 Employees,1994,Company - Private,Energy & Utilities,"Energy, Mining & Utilities",$100 to $500 million (USD),na,118,189,153.5,636,28
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1787,44
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,118,189,153.5,1647,169
+data scientist,4.3,Delta,GA,10000+ Employees,1928,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),na,118,189,153.5,64,94
+data scientist,4.8,"Point Digital Finance, Inc.",CA,201 to 500 Employees,2015,Company - Private,Real Estate,Real Estate,Unknown / Non-Applicable,na,118,189,153.5,565,7
+na,3.9,Zillow,Remote,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),na,118,189,153.5,1727,17
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1597,44
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1723,44
+data scientist,3.3,SPECTRUM,CO,10000+ Employees,2016,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),senior,118,189,153.5,1920,6
+data scientist,4.0,Universal Orlando,FL,10000+ Employees,1987,Subsidiary or Business Segment,Hotels & Resorts,Hotels & Travel Accommodation,$1 to $5 billion (USD),na,118,189,153.5,967,35
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,na,118,189,153.5,1004,4
+data scientist,-1.0,Staffing By Sabri,CA,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,118,189,153.5,580,-1
+data scientist,-1.0,EpochGeo,DC,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,118,189,153.5,977,-1
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1138,60
+data scientist,-1.0,care.ai,Remote,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,118,189,153.5,580,-1
+data scientist,3.6,WM,TX,10000+ Employees,1971,Company - Public,Building & Personnel Services,Management & Consulting,$10+ billion (USD),senior,118,189,153.5,772,51
+data scientist,3.3,SPECTRUM,CO,10000+ Employees,2016,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),na,118,189,153.5,4678,6
+data scientist,3.9,PG&E Corporation,CA,10000+ Employees,1905,Company - Public,Energy & Utilities,"Energy, Mining & Utilities",$10+ billion (USD),na,118,189,153.5,4223,117
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,817,60
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,118,189,153.5,910,4
+machine learning engineer,5.0,"Stratom, Inc.",CO,1 to 50 Employees,-1,Company - Private,Aerospace & Defense,Aerospace & Defense,$1 to $5 million (USD),na,118,189,153.5,911,-1
+na,4.2,Capital One,NY,10000+ Employees,1994,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),na,118,189,153.5,2005,28
+data scientist,3.9,Aon,GA,10000+ Employees,1892,Company - Public,Insurance Agencies & Brokerages,Insurance,$10+ billion (USD),senior,118,189,153.5,4997,130
+machine learning engineer,4.0,General Motors,Remote,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),na,118,189,153.5,5028,114
+machine learning engineer,-1.0,"EDDA Technology, Inc.",NJ,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,118,189,153.5,474,-1
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),na,118,189,153.5,2283,169
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,118,189,153.5,550,89
+data engineer,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),na,118,189,153.5,1567,169
+data scientist,3.2,Lidl US,VA,5001 to 10000 Employees,1973,Company - Private,Grocery Stores,Retail & Wholesale,Unknown / Non-Applicable,junior,118,189,153.5,98,49
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),na,118,189,153.5,1508,44
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1787,44
+data scientist,4.3,Delta,GA,10000+ Employees,1928,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),na,118,189,153.5,64,94
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,118,189,153.5,1647,169
+data scientist,4.8,"Point Digital Finance, Inc.",CA,201 to 500 Employees,2015,Company - Private,Real Estate,Real Estate,Unknown / Non-Applicable,na,118,189,153.5,565,7
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1597,44
+na,3.9,Zillow,Remote,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),na,118,189,153.5,1727,17
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1723,44
+data scientist,4.0,Universal Orlando,FL,10000+ Employees,1987,Subsidiary or Business Segment,Hotels & Resorts,Hotels & Travel Accommodation,$1 to $5 billion (USD),na,118,189,153.5,967,35
+data scientist,3.3,SPECTRUM,CO,10000+ Employees,2016,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),senior,118,189,153.5,1920,6
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,118,189,153.5,1004,4
+data scientist,3.6,WM,TX,10000+ Employees,1971,Company - Public,Building & Personnel Services,Management & Consulting,$10+ billion (USD),senior,118,189,153.5,772,51
+data scientist,-1.0,Staffing By Sabri,CA,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,118,189,153.5,580,-1
+data scientist,-1.0,care.ai,Remote,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,118,189,153.5,580,-1
+data scientist,-1.0,EpochGeo,DC,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,118,189,153.5,977,-1
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,na,118,189,153.5,1004,4
+data scientist,3.3,SPECTRUM,CO,10000+ Employees,2016,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),na,118,189,153.5,4678,6
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,817,60
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1138,60
+data scientist,3.9,PG&E Corporation,CA,10000+ Employees,1905,Company - Public,Energy & Utilities,"Energy, Mining & Utilities",$10+ billion (USD),na,118,189,153.5,4223,117
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,118,189,153.5,910,4
+machine learning engineer,5.0,"Stratom, Inc.",CO,1 to 50 Employees,-1,Company - Private,Aerospace & Defense,Aerospace & Defense,$1 to $5 million (USD),na,118,189,153.5,911,-1
+na,4.2,Capital One,NY,10000+ Employees,1994,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),na,118,189,153.5,2005,28
+data scientist,3.9,Aon,GA,10000+ Employees,1892,Company - Public,Insurance Agencies & Brokerages,Insurance,$10+ billion (USD),senior,118,189,153.5,4997,130
+machine learning engineer,4.0,General Motors,Remote,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),na,118,189,153.5,5028,114
+machine learning engineer,-1.0,"EDDA Technology, Inc.",NJ,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,118,189,153.5,474,-1
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),na,118,189,153.5,2283,169
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,118,189,153.5,550,89
+data engineer,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),na,118,189,153.5,1567,169
+data scientist,3.2,Lidl US,VA,5001 to 10000 Employees,1973,Company - Private,Grocery Stores,Retail & Wholesale,Unknown / Non-Applicable,junior,118,189,153.5,98,49
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),na,118,189,153.5,1508,44
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1787,44
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,118,189,153.5,1647,169
+data scientist,4.8,"Point Digital Finance, Inc.",CA,201 to 500 Employees,2015,Company - Private,Real Estate,Real Estate,Unknown / Non-Applicable,na,118,189,153.5,565,7
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1723,44
+data scientist,4.0,Universal Orlando,FL,10000+ Employees,1987,Subsidiary or Business Segment,Hotels & Resorts,Hotels & Travel Accommodation,$1 to $5 billion (USD),na,118,189,153.5,967,35
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1597,44
+data scientist,4.3,Delta,GA,10000+ Employees,1928,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),na,118,189,153.5,64,94
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,118,189,153.5,1004,4
+data scientist,3.3,SPECTRUM,CO,10000+ Employees,2016,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),senior,118,189,153.5,1920,6
+na,3.9,Zillow,Remote,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),na,118,189,153.5,1727,17
+data scientist,-1.0,EpochGeo,DC,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,118,189,153.5,977,-1
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,na,118,189,153.5,1004,4
+data scientist,-1.0,Staffing By Sabri,CA,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,118,189,153.5,580,-1
+data scientist,3.3,SPECTRUM,CO,10000+ Employees,2016,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),na,118,189,153.5,4678,6
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1138,60
+data scientist,-1.0,care.ai,Remote,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,118,189,153.5,580,-1
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,817,60
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,118,189,153.5,910,4
+data scientist,3.9,PG&E Corporation,CA,10000+ Employees,1905,Company - Public,Energy & Utilities,"Energy, Mining & Utilities",$10+ billion (USD),na,118,189,153.5,4223,117
+data scientist,4.1,Bosch Group,CA,10000+ Employees,1886,Company - Private,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),na,118,189,153.5,815,136
+machine learning engineer,5.0,"Stratom, Inc.",CO,1 to 50 Employees,-1,Company - Private,Aerospace & Defense,Aerospace & Defense,$1 to $5 million (USD),na,118,189,153.5,911,-1
+na,4.2,Capital One,NY,10000+ Employees,1994,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),na,118,189,153.5,2005,28
+data scientist,3.9,Aon,GA,10000+ Employees,1892,Company - Public,Insurance Agencies & Brokerages,Insurance,$10+ billion (USD),senior,118,189,153.5,4997,130
+machine learning engineer,4.0,General Motors,Remote,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),na,118,189,153.5,5028,114
+machine learning engineer,-1.0,"EDDA Technology, Inc.",NJ,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,118,189,153.5,474,-1
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),na,118,189,153.5,2283,169
+data engineer,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),na,118,189,153.5,1567,169
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,118,189,153.5,550,89
+data scientist,3.2,Lidl US,VA,5001 to 10000 Employees,1973,Company - Private,Grocery Stores,Retail & Wholesale,Unknown / Non-Applicable,junior,118,189,153.5,98,49
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),na,118,189,153.5,1508,44
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,118,189,153.5,1647,169
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1787,44
+na,3.9,Zillow,Remote,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),na,118,189,153.5,1727,17
+data scientist,4.0,Universal Orlando,FL,10000+ Employees,1987,Subsidiary or Business Segment,Hotels & Resorts,Hotels & Travel Accommodation,$1 to $5 billion (USD),na,118,189,153.5,967,35
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1597,44
+data scientist,4.8,"Point Digital Finance, Inc.",CA,201 to 500 Employees,2015,Company - Private,Real Estate,Real Estate,Unknown / Non-Applicable,na,118,189,153.5,565,7
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1723,44
+data scientist,3.3,SPECTRUM,CO,10000+ Employees,2016,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),senior,118,189,153.5,1920,6
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,118,189,153.5,1004,4
+data scientist,4.3,Delta,GA,10000+ Employees,1928,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),na,118,189,153.5,64,94
+data scientist,3.6,WM,TX,10000+ Employees,1971,Company - Public,Building & Personnel Services,Management & Consulting,$10+ billion (USD),senior,118,189,153.5,772,51
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1138,60
+data scientist,-1.0,care.ai,Remote,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,118,189,153.5,580,-1
+data scientist,-1.0,Staffing By Sabri,CA,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,118,189,153.5,580,-1
+data scientist,-1.0,EpochGeo,DC,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,118,189,153.5,977,-1
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,817,60
+data scientist,3.3,SPECTRUM,CO,10000+ Employees,2016,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),na,118,189,153.5,4678,6
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,na,118,189,153.5,1004,4
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,118,189,153.5,910,4
+data scientist,3.9,PG&E Corporation,CA,10000+ Employees,1905,Company - Public,Energy & Utilities,"Energy, Mining & Utilities",$10+ billion (USD),na,118,189,153.5,4223,117
+machine learning engineer,5.0,"Stratom, Inc.",CO,1 to 50 Employees,-1,Company - Private,Aerospace & Defense,Aerospace & Defense,$1 to $5 million (USD),na,118,189,153.5,911,-1
+na,4.2,Capital One,NY,10000+ Employees,1994,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),na,118,189,153.5,2005,28
+machine learning engineer,4.0,General Motors,Remote,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),na,118,189,153.5,5028,114
+data scientist,3.9,Aon,GA,10000+ Employees,1892,Company - Public,Insurance Agencies & Brokerages,Insurance,$10+ billion (USD),senior,118,189,153.5,4997,130
+machine learning engineer,-1.0,"EDDA Technology, Inc.",NJ,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,118,189,153.5,474,-1
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),na,118,189,153.5,2283,169
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,118,189,153.5,550,89
+data engineer,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),na,118,189,153.5,1567,169
+data scientist,3.2,Lidl US,VA,5001 to 10000 Employees,1973,Company - Private,Grocery Stores,Retail & Wholesale,Unknown / Non-Applicable,junior,118,189,153.5,98,49
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),na,118,189,153.5,1508,44
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,118,189,153.5,1647,169
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1787,44
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1597,44
+data scientist,4.8,"Point Digital Finance, Inc.",CA,201 to 500 Employees,2015,Company - Private,Real Estate,Real Estate,Unknown / Non-Applicable,na,118,189,153.5,565,7
+na,3.9,Zillow,Remote,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),na,118,189,153.5,1727,17
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,118,189,153.5,1004,4
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1723,44
+data scientist,4.0,Universal Orlando,FL,10000+ Employees,1987,Subsidiary or Business Segment,Hotels & Resorts,Hotels & Travel Accommodation,$1 to $5 billion (USD),na,118,189,153.5,967,35
+data scientist,3.3,SPECTRUM,CO,10000+ Employees,2016,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),senior,118,189,153.5,1920,6
+data scientist,-1.0,Staffing By Sabri,CA,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,118,189,153.5,580,-1
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,817,60
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1138,60
+data scientist,3.3,SPECTRUM,CO,10000+ Employees,2016,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),na,118,189,153.5,4678,6
+data scientist,-1.0,care.ai,Remote,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,118,189,153.5,580,-1
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,na,118,189,153.5,1004,4
+data scientist,3.9,PG&E Corporation,CA,10000+ Employees,1905,Company - Public,Energy & Utilities,"Energy, Mining & Utilities",$10+ billion (USD),na,118,189,153.5,4223,117
+machine learning engineer,5.0,"Stratom, Inc.",CO,1 to 50 Employees,-1,Company - Private,Aerospace & Defense,Aerospace & Defense,$1 to $5 million (USD),na,118,189,153.5,911,-1
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,118,189,153.5,910,4
+na,3.6,Tesla,CA,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),na,118,189,153.5,631,19
+data analyst,3.7,The Mom Project,Remote,51 to 200 Employees,2016,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,senior,118,189,153.5,6128,6
+data scientist,4.0,"Daman, Inc.",Remote,51 to 200 Employees,1995,Company - Private,Information Technology Support Services,Information Technology,$25 to $100 million (USD),na,118,189,153.5,870,27
+na,4.2,Capital One,NY,10000+ Employees,1994,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),na,118,189,153.5,2005,28
+data scientist,3.9,Aon,GA,10000+ Employees,1892,Company - Public,Insurance Agencies & Brokerages,Insurance,$10+ billion (USD),senior,118,189,153.5,4997,130
+machine learning engineer,4.0,General Motors,Remote,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),na,118,189,153.5,5028,114
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),na,118,189,153.5,2283,169
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,118,189,153.5,550,89
+data engineer,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),na,118,189,153.5,1567,169
+data scientist,3.2,Lidl US,VA,5001 to 10000 Employees,1973,Company - Private,Grocery Stores,Retail & Wholesale,Unknown / Non-Applicable,junior,118,189,153.5,98,49
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),na,118,189,153.5,1508,44
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1787,44
+data scientist,4.8,"Point Digital Finance, Inc.",CA,201 to 500 Employees,2015,Company - Private,Real Estate,Real Estate,Unknown / Non-Applicable,na,118,189,153.5,565,7
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1723,44
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,118,189,153.5,1647,169
+na,3.9,Zillow,Remote,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),na,118,189,153.5,1727,17
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1597,44
+data scientist,4.0,Universal Orlando,FL,10000+ Employees,1987,Subsidiary or Business Segment,Hotels & Resorts,Hotels & Travel Accommodation,$1 to $5 billion (USD),na,118,189,153.5,967,35
+data scientist,3.3,SPECTRUM,CO,10000+ Employees,2016,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),senior,118,189,153.5,1920,6
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1138,60
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,118,189,153.5,1004,4
+data scientist,4.5,Applied Resource Group,Remote,1 to 50 Employees,2010,Company - Private,HR Consulting,Human Resources & Staffing,$5 to $25 million (USD),senior,118,189,153.5,705,12
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,817,60
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,na,118,189,153.5,1004,4
+data scientist,-1.0,care.ai,Remote,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,118,189,153.5,580,-1
+data analyst,3.7,The Mom Project,Remote,51 to 200 Employees,2016,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,senior,118,189,153.5,6128,6
+data scientist,3.9,PG&E Corporation,CA,10000+ Employees,1905,Company - Public,Energy & Utilities,"Energy, Mining & Utilities",$10+ billion (USD),na,118,189,153.5,4223,117
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,118,189,153.5,910,4
+data scientist,4.0,"Daman, Inc.",Remote,51 to 200 Employees,1995,Company - Private,Information Technology Support Services,Information Technology,$25 to $100 million (USD),na,118,189,153.5,870,27
+machine learning engineer,5.0,"Stratom, Inc.",CO,1 to 50 Employees,-1,Company - Private,Aerospace & Defense,Aerospace & Defense,$1 to $5 million (USD),na,118,189,153.5,911,-1
+na,3.6,Tesla,CA,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),na,118,189,153.5,631,19
+data scientist,3.7,The Mom Project,Remote,51 to 200 Employees,2016,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,senior,118,189,153.5,4964,6
+data engineer,4.2,Apple,NY,10000+ Employees,1976,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),na,118,189,153.5,1008,46
+na,4.2,Capital One,NY,10000+ Employees,1994,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),na,118,189,153.5,2005,28
+machine learning engineer,4.0,General Motors,Remote,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),na,118,189,153.5,5028,114
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),na,118,189,153.5,1735,169
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,118,189,153.5,550,89
+data scientist,3.2,Lidl US,VA,5001 to 10000 Employees,1973,Company - Private,Grocery Stores,Retail & Wholesale,Unknown / Non-Applicable,junior,118,189,153.5,98,49
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),na,118,189,153.5,1508,44
+data engineer,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),na,118,189,153.5,1567,169
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1787,44
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1723,44
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1597,44
+na,3.9,Zillow,Remote,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),na,118,189,153.5,1727,17
+data scientist,4.0,Universal Orlando,FL,10000+ Employees,1987,Subsidiary or Business Segment,Hotels & Resorts,Hotels & Travel Accommodation,$1 to $5 billion (USD),na,118,189,153.5,967,35
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,118,189,153.5,1004,4
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1138,60
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,817,60
+data scientist,3.9,PG&E Corporation,CA,10000+ Employees,1905,Company - Public,Energy & Utilities,"Energy, Mining & Utilities",$10+ billion (USD),na,118,189,153.5,4223,117
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,na,118,189,153.5,1004,4
+machine learning engineer,5.0,"Stratom, Inc.",CO,1 to 50 Employees,-1,Company - Private,Aerospace & Defense,Aerospace & Defense,$1 to $5 million (USD),na,118,189,153.5,911,-1
+data scientist,3.7,The Mom Project,Remote,51 to 200 Employees,2016,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,senior,118,189,153.5,4964,6
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,118,189,153.5,910,4
+data analyst,3.7,The Mom Project,Remote,51 to 200 Employees,2016,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,senior,118,189,153.5,6128,6
+na,3.6,Tesla,CA,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),na,118,189,153.5,631,19
+data engineer,4.2,Apple,NY,10000+ Employees,1976,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),na,118,189,153.5,1008,46
+data scientist,4.4,Princeton University,NJ,5001 to 10000 Employees,1746,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,senior,118,189,153.5,1054,276
+data scientist,4.2,Apple,WA,10000+ Employees,1976,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),na,118,189,153.5,690,46
+data scientist,-1.0,"Computer Enterprises, Inc. (CEI)",Remote,Unknown,-1,Company - Public,-1,-1,Unknown / Non-Applicable,senior,118,189,153.5,724,-1
+data scientist,4.0,Harnham,Remote,51 to 200 Employees,2006,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),senior,118,189,153.5,604,16
+data scientist,4.0,Harnham,CA,51 to 200 Employees,2006,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),senior,118,189,153.5,503,16
+na,4.1,John Deere,IL,10000+ Employees,1837,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),na,118,189,153.5,1140,185
+data scientist,4.1,TEKsystems,GA,1001 to 5000 Employees,1983,Subsidiary or Business Segment,HR Consulting,Human Resources & Staffing,$5 to $10 billion (USD),na,118,189,153.5,365,39
+na,4.2,Capital One,NY,10000+ Employees,1994,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),na,118,189,153.5,2005,28
+machine learning engineer,4.0,General Motors,Remote,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),na,118,189,153.5,5028,114
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),na,118,189,153.5,1735,169
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,118,189,153.5,550,89
+data scientist,3.2,Lidl US,VA,5001 to 10000 Employees,1973,Company - Private,Grocery Stores,Retail & Wholesale,Unknown / Non-Applicable,junior,118,189,153.5,98,49
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),na,118,189,153.5,1508,44
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1787,44
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1597,44
+na,3.9,Zillow,Remote,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),na,118,189,153.5,1727,17
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1723,44
+data scientist,4.0,Universal Orlando,FL,10000+ Employees,1987,Subsidiary or Business Segment,Hotels & Resorts,Hotels & Travel Accommodation,$1 to $5 billion (USD),na,118,189,153.5,967,35
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,118,189,153.5,1004,4
+data scientist,4.2,MATRIX Resources,AZ,201 to 500 Employees,1983,Subsidiary or Business Segment,Staffing & Subcontracting,Human Resources & Staffing,$100 to $500 million (USD),na,118,189,153.5,778,39
+data scientist,-1.0,care.ai,Remote,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,118,189,153.5,580,-1
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1138,60
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,817,60
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,na,118,189,153.5,1004,4
+data scientist,3.9,PG&E Corporation,CA,10000+ Employees,1905,Company - Public,Energy & Utilities,"Energy, Mining & Utilities",$10+ billion (USD),na,118,189,153.5,4223,117
+machine learning engineer,5.0,"Stratom, Inc.",CO,1 to 50 Employees,-1,Company - Private,Aerospace & Defense,Aerospace & Defense,$1 to $5 million (USD),na,118,189,153.5,911,-1
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,118,189,153.5,910,4
+data scientist,4.2,CyberCoders,CA,201 to 500 Employees,1999,Subsidiary or Business Segment,Staffing & Subcontracting,Human Resources & Staffing,$100 to $500 million (USD),senior,118,189,153.5,1253,23
+data scientist,3.7,The Mom Project,Remote,51 to 200 Employees,2016,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,senior,118,189,153.5,4964,6
+na,3.6,Tesla,CA,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),na,118,189,153.5,631,19
+data scientist,4.4,Princeton University,NJ,5001 to 10000 Employees,1746,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,senior,118,189,153.5,1054,276
+data analyst,3.7,The Mom Project,Remote,51 to 200 Employees,2016,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,senior,118,189,153.5,6128,6
+data scientist,4.2,Apple,WA,10000+ Employees,1976,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),na,118,189,153.5,690,46
+data scientist,-1.0,"Computer Enterprises, Inc. (CEI)",Remote,Unknown,-1,Company - Public,-1,-1,Unknown / Non-Applicable,senior,118,189,153.5,724,-1
+data scientist,4.0,Harnham,CA,51 to 200 Employees,2006,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),senior,118,189,153.5,503,16
+data scientist,4.1,TEKsystems,GA,1001 to 5000 Employees,1983,Subsidiary or Business Segment,HR Consulting,Human Resources & Staffing,$5 to $10 billion (USD),na,118,189,153.5,365,39
+na,4.1,John Deere,IL,10000+ Employees,1837,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),na,118,189,153.5,1140,185
+machine learning engineer,4.0,General Motors,Remote,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),na,127,127,127.0,5028,114
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,127,127,127.0,550,89
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),na,127,127,127.0,1735,169
+data scientist,3.2,Lidl US,VA,5001 to 10000 Employees,1973,Company - Private,Grocery Stores,Retail & Wholesale,Unknown / Non-Applicable,junior,127,127,127.0,98,49
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),na,127,127,127.0,1508,44
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,1787,44
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,1597,44
+na,3.9,Zillow,Remote,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),na,127,127,127.0,1727,17
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,1723,44
+data scientist,4.0,Universal Orlando,FL,10000+ Employees,1987,Subsidiary or Business Segment,Hotels & Resorts,Hotels & Travel Accommodation,$1 to $5 billion (USD),na,127,127,127.0,967,35
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,127,127,127.0,1004,4
+data scientist,4.2,MATRIX Resources,AZ,201 to 500 Employees,1983,Subsidiary or Business Segment,Staffing & Subcontracting,Human Resources & Staffing,$100 to $500 million (USD),na,127,127,127.0,778,39
+data scientist,-1.0,care.ai,Remote,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,127,127,127.0,580,-1
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,817,60
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,1138,60
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,na,127,127,127.0,1004,4
+machine learning engineer,5.0,"Stratom, Inc.",CO,1 to 50 Employees,-1,Company - Private,Aerospace & Defense,Aerospace & Defense,$1 to $5 million (USD),na,127,127,127.0,911,-1
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,127,127,127.0,910,4
+na,3.6,Tesla,CA,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),na,127,127,127.0,631,19
+data scientist,3.7,The Mom Project,Remote,51 to 200 Employees,2016,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,senior,127,127,127.0,4964,6
+data analyst,3.7,The Mom Project,Remote,51 to 200 Employees,2016,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,senior,127,127,127.0,6128,6
+data scientist,4.2,Apple,WA,10000+ Employees,1976,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),na,127,127,127.0,690,46
+data scientist,-1.0,"Computer Enterprises, Inc. (CEI)",Remote,Unknown,-1,Company - Public,-1,-1,Unknown / Non-Applicable,senior,127,127,127.0,724,-1
+na,4.1,John Deere,IL,10000+ Employees,1837,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),na,127,127,127.0,1140,185
+data scientist,4.0,Harnham,MA,51 to 200 Employees,2006,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),senior,127,127,127.0,604,16
+data scientist,3.8,Vaco,Remote,501 to 1000 Employees,2002,Company - Private,Business Consulting,Management & Consulting,$500 million to $1 billion (USD),na,127,127,127.0,1889,20
+data scientist,4.0,Harnham,MA,51 to 200 Employees,2006,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),senior,127,127,127.0,641,16
+data scientist,4.0,Harnham,NY,51 to 200 Employees,2006,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),na,127,127,127.0,417,16
+data scientist,3.8,Atlas,Remote,51 to 200 Employees,1999,Company - Private,Business Consulting,Management & Consulting,$5 to $25 million (USD),na,127,127,127.0,494,23
+data scientist,-1.0,Bright Apps LLC,CA,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,127,127,127.0,1134,-1
+na,4.2,Capital One,NY,10000+ Employees,1994,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),na,118,189,153.5,2005,28
+machine learning engineer,4.0,General Motors,Remote,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),na,118,189,153.5,5028,114
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,118,189,153.5,550,89
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),na,118,189,153.5,2283,169
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,118,189,153.5,1647,169
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1787,44
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,118,189,153.5,550,89
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1723,44
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),na,118,189,153.5,1508,44
+data scientist,3.2,Lidl US,VA,5001 to 10000 Employees,1973,Company - Private,Grocery Stores,Retail & Wholesale,Unknown / Non-Applicable,junior,118,189,153.5,98,49
+data scientist,3.3,SPECTRUM,CO,10000+ Employees,2016,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),senior,118,189,153.5,1920,6
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1597,44
+na,3.9,Zillow,Remote,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),na,118,189,153.5,1727,17
+data scientist,4.0,Universal Orlando,FL,10000+ Employees,1987,Subsidiary or Business Segment,Hotels & Resorts,Hotels & Travel Accommodation,$1 to $5 billion (USD),na,118,189,153.5,967,35
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,118,189,153.5,1004,4
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1138,60
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,na,118,189,153.5,1004,4
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,817,60
+data scientist,3.9,PG&E Corporation,CA,10000+ Employees,1905,Company - Public,Energy & Utilities,"Energy, Mining & Utilities",$10+ billion (USD),na,118,189,153.5,4223,117
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,118,189,153.5,910,4
+machine learning engineer,5.0,"Stratom, Inc.",CO,1 to 50 Employees,-1,Company - Private,Aerospace & Defense,Aerospace & Defense,$1 to $5 million (USD),na,118,189,153.5,911,-1
+data scientist,3.7,The Mom Project,Remote,51 to 200 Employees,2016,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,senior,118,189,153.5,4964,6
+data scientist,4.0,"Daman, Inc.",Remote,51 to 200 Employees,1995,Company - Private,Information Technology Support Services,Information Technology,$25 to $100 million (USD),na,118,189,153.5,870,27
+data analyst,3.7,The Mom Project,Remote,51 to 200 Employees,2016,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,senior,118,189,153.5,6128,6
+na,3.6,Tesla,CA,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),na,118,189,153.5,631,19
+data scientist,-1.0,"Computer Enterprises, Inc. (CEI)",Remote,Unknown,-1,Company - Public,-1,-1,Unknown / Non-Applicable,senior,118,189,153.5,724,-1
+data scientist,4.2,Apple,WA,10000+ Employees,1976,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),na,118,189,153.5,690,46
+data scientist,4.0,Harnham,MA,51 to 200 Employees,2006,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),senior,118,189,153.5,604,16
+data scientist,4.0,Harnham,MA,51 to 200 Employees,2006,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),senior,118,189,153.5,641,16
+na,4.1,John Deere,IL,10000+ Employees,1837,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),na,118,189,153.5,1140,185
+na,4.2,Capital One,NY,10000+ Employees,1994,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),na,118,189,153.5,2005,28
+data scientist,3.9,Aon,GA,10000+ Employees,1892,Company - Public,Insurance Agencies & Brokerages,Insurance,$10+ billion (USD),senior,118,189,153.5,4997,130
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,118,189,153.5,550,89
+machine learning engineer,4.0,General Motors,Remote,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),na,118,189,153.5,5028,114
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),na,118,189,153.5,2283,169
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1787,44
+data engineer,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),na,118,189,153.5,1567,169
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,118,189,153.5,1647,169
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,118,189,153.5,550,89
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1723,44
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),na,118,189,153.5,1508,44
+data scientist,3.2,Lidl US,VA,5001 to 10000 Employees,1973,Company - Private,Grocery Stores,Retail & Wholesale,Unknown / Non-Applicable,junior,118,189,153.5,98,49
+data scientist,4.3,Delta,GA,10000+ Employees,1928,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),na,118,189,153.5,64,94
+data scientist,3.3,SPECTRUM,CO,10000+ Employees,2016,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),senior,118,189,153.5,1920,6
+data scientist,4.8,"Point Digital Finance, Inc.",CA,201 to 500 Employees,2015,Company - Private,Real Estate,Real Estate,Unknown / Non-Applicable,na,118,189,153.5,565,7
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1597,44
+na,3.9,Zillow,Remote,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),na,118,189,153.5,1727,17
+data scientist,4.0,Universal Orlando,FL,10000+ Employees,1987,Subsidiary or Business Segment,Hotels & Resorts,Hotels & Travel Accommodation,$1 to $5 billion (USD),na,118,189,153.5,967,35
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,118,189,153.5,1004,4
+data scientist,-1.0,care.ai,Remote,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,118,189,153.5,580,-1
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,na,118,189,153.5,1004,4
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,1138,60
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,118,189,153.5,817,60
+data scientist,3.9,PG&E Corporation,CA,10000+ Employees,1905,Company - Public,Energy & Utilities,"Energy, Mining & Utilities",$10+ billion (USD),na,118,189,153.5,4223,117
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,118,189,153.5,910,4
+data scientist,3.7,The Mom Project,Remote,51 to 200 Employees,2016,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,senior,118,189,153.5,4964,6
+machine learning engineer,5.0,"Stratom, Inc.",CO,1 to 50 Employees,-1,Company - Private,Aerospace & Defense,Aerospace & Defense,$1 to $5 million (USD),na,118,189,153.5,911,-1
+data scientist,4.0,"Daman, Inc.",Remote,51 to 200 Employees,1995,Company - Private,Information Technology Support Services,Information Technology,$25 to $100 million (USD),na,118,189,153.5,870,27
+data analyst,3.7,The Mom Project,Remote,51 to 200 Employees,2016,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,senior,118,189,153.5,6128,6
+na,3.6,Tesla,CA,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),na,118,189,153.5,631,19
+data scientist,3.9,Aon,GA,10000+ Employees,1892,Company - Public,Insurance Agencies & Brokerages,Insurance,$10+ billion (USD),senior,135,175,155.0,4997,130
+machine learning engineer,4.0,General Motors,Remote,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),na,135,175,155.0,5028,114
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,135,175,155.0,550,89
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,135,175,155.0,1850,169
+data engineer,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),na,135,175,155.0,1567,169
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),na,135,175,155.0,1508,44
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,135,175,155.0,1647,169
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,135,175,155.0,1787,44
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,135,175,155.0,550,89
+data scientist,3.2,Lidl US,VA,5001 to 10000 Employees,1973,Company - Private,Grocery Stores,Retail & Wholesale,Unknown / Non-Applicable,junior,135,175,155.0,98,49
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,135,175,155.0,1597,44
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,135,175,155.0,1723,44
+na,3.9,Zillow,Remote,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),na,135,175,155.0,1727,17
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,135,175,155.0,1004,4
+data scientist,-1.0,care.ai,Remote,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,135,175,155.0,580,-1
+data scientist,4.0,Universal Orlando,FL,10000+ Employees,1987,Subsidiary or Business Segment,Hotels & Resorts,Hotels & Travel Accommodation,$1 to $5 billion (USD),na,135,175,155.0,967,35
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,na,135,175,155.0,1004,4
+data scientist,3.9,PG&E Corporation,CA,10000+ Employees,1905,Company - Public,Energy & Utilities,"Energy, Mining & Utilities",$10+ billion (USD),na,135,175,155.0,4223,117
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,135,175,155.0,910,4
+machine learning engineer,5.0,"Stratom, Inc.",CO,1 to 50 Employees,-1,Company - Private,Aerospace & Defense,Aerospace & Defense,$1 to $5 million (USD),na,135,175,155.0,911,-1
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,135,175,155.0,1138,60
+data scientist,3.7,The Mom Project,Remote,51 to 200 Employees,2016,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,senior,135,175,155.0,4964,6
+data scientist,4.0,"Daman, Inc.",Remote,51 to 200 Employees,1995,Company - Private,Information Technology Support Services,Information Technology,$25 to $100 million (USD),na,135,175,155.0,870,27
+data scientist,4.4,Princeton University,NJ,5001 to 10000 Employees,1746,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,senior,135,175,155.0,1054,276
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,135,175,155.0,817,60
+data analyst,3.7,The Mom Project,Remote,51 to 200 Employees,2016,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,senior,135,175,155.0,6128,6
+na,3.6,Tesla,CA,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),na,135,175,155.0,631,19
+data scientist,-1.0,"Computer Enterprises, Inc. (CEI)",Remote,Unknown,-1,Company - Public,-1,-1,Unknown / Non-Applicable,senior,135,175,155.0,724,-1
+data scientist,4.2,Apple,WA,10000+ Employees,1976,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),na,135,175,155.0,690,46
+data scientist,4.0,Harnham,NY,51 to 200 Employees,2006,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),na,135,175,155.0,417,16
+machine learning engineer,4.0,General Motors,Remote,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),na,127,127,127.0,5028,114
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,127,127,127.0,550,89
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,127,127,127.0,1302,169
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,127,127,127.0,1647,169
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,1787,44
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,127,127,127.0,550,89
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,1723,44
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),na,127,127,127.0,1508,44
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,1597,44
+na,3.9,Zillow,Remote,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),na,127,127,127.0,1727,17
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,127,127,127.0,1004,4
+data scientist,4.0,Universal Orlando,FL,10000+ Employees,1987,Subsidiary or Business Segment,Hotels & Resorts,Hotels & Travel Accommodation,$1 to $5 billion (USD),na,127,127,127.0,967,35
+data scientist,3.9,PG&E Corporation,CA,10000+ Employees,1905,Company - Public,Energy & Utilities,"Energy, Mining & Utilities",$10+ billion (USD),na,127,127,127.0,4223,117
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,1138,60
+data scientist,4.2,CyberCoders,MD,201 to 500 Employees,1999,Subsidiary or Business Segment,Staffing & Subcontracting,Human Resources & Staffing,$100 to $500 million (USD),senior,127,127,127.0,1148,23
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,127,127,127.0,910,4
+data scientist,3.7,The Mom Project,Remote,51 to 200 Employees,2016,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,senior,127,127,127.0,4964,6
+data scientist,4.4,Princeton University,NJ,5001 to 10000 Employees,1746,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,senior,127,127,127.0,1054,276
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,817,60
+data analyst,3.7,The Mom Project,Remote,51 to 200 Employees,2016,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,senior,127,127,127.0,6128,6
+data scientist,-1.0,"Computer Enterprises, Inc. (CEI)",Remote,Unknown,-1,Company - Public,-1,-1,Unknown / Non-Applicable,senior,127,127,127.0,724,-1
+na,3.6,Tesla,CA,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),na,127,127,127.0,631,19
+machine learning engineer,-1.0,Roc Search,TX,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,127,127,127.0,434,-1
+data scientist,4.0,Harnham,CA,51 to 200 Employees,2006,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),senior,127,127,127.0,503,16
+data scientist,4.1,TEKsystems,GA,1001 to 5000 Employees,1983,Subsidiary or Business Segment,HR Consulting,Human Resources & Staffing,$5 to $10 billion (USD),na,127,127,127.0,365,39
+na,4.1,John Deere,IL,10000+ Employees,1837,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),na,127,127,127.0,1140,185
+data scientist,4.0,Harnham,MA,51 to 200 Employees,2006,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),senior,127,127,127.0,641,16
+data scientist,5.0,Engtal,Remote,1 to 50 Employees,2017,Company - Private,Staffing & Subcontracting,Human Resources & Staffing,$5 to $25 million (USD),senior,127,127,127.0,752,5
+na,4.2,Seneca Resources,Remote,51 to 200 Employees,2010,Company - Private,HR Consulting,Human Resources & Staffing,$5 to $25 million (USD),na,127,127,127.0,442,12
+data scientist,3.0,CVS Health,NY,10000+ Employees,1963,Company - Public,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),na,127,127,127.0,2946,59
+machine learning engineer,4.0,General Motors,Remote,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),na,127,127,127.0,5028,114
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,127,127,127.0,550,89
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,127,127,127.0,1302,169
+data engineer,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),na,127,127,127.0,1567,169
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),na,127,127,127.0,1508,44
+data scientist,3.2,Lidl US,VA,5001 to 10000 Employees,1973,Company - Private,Grocery Stores,Retail & Wholesale,Unknown / Non-Applicable,junior,127,127,127.0,98,49
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,1597,44
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,127,127,127.0,550,89
+data scientist,4.0,Universal Orlando,FL,10000+ Employees,1987,Subsidiary or Business Segment,Hotels & Resorts,Hotels & Travel Accommodation,$1 to $5 billion (USD),na,127,127,127.0,967,35
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,127,127,127.0,1004,4
+data scientist,3.1,Frontier,Remote,10000+ Employees,1935,Company - Public,"Cable, Internet & Telephone Providers",Telecommunications,$10+ billion (USD),na,127,127,127.0,490,87
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,817,60
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,1138,60
+data scientist,4.4,Princeton University,NJ,5001 to 10000 Employees,1746,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,senior,127,127,127.0,1054,276
+na,3.9,Zillow,Remote,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),na,127,127,127.0,1910,17
+data analyst,3.7,The Mom Project,Remote,51 to 200 Employees,2016,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,senior,127,127,127.0,6128,6
+na,3.6,Tesla,CA,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),na,127,127,127.0,631,19
+data scientist,4.2,Apple,WA,10000+ Employees,1976,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),na,127,127,127.0,690,46
+machine learning engineer,-1.0,Roc Search,TX,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,127,127,127.0,434,-1
+data scientist,4.1,TEKsystems,GA,1001 to 5000 Employees,1983,Subsidiary or Business Segment,HR Consulting,Human Resources & Staffing,$5 to $10 billion (USD),na,127,127,127.0,365,39
+data scientist,4.0,Harnham,CA,51 to 200 Employees,2006,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),senior,127,127,127.0,503,16
+na,4.1,John Deere,IL,10000+ Employees,1837,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),na,127,127,127.0,1140,185
+data scientist,4.8,"Ursus, Inc.",WA,51 to 200 Employees,2015,Company - Private,Staffing & Subcontracting,Human Resources & Staffing,$25 to $100 million (USD),na,127,127,127.0,517,7
+data scientist,5.0,Engtal,Remote,1 to 50 Employees,2017,Company - Private,Staffing & Subcontracting,Human Resources & Staffing,$5 to $25 million (USD),senior,127,127,127.0,752,5
+na,4.2,Seneca Resources,Remote,51 to 200 Employees,2010,Company - Private,HR Consulting,Human Resources & Staffing,$5 to $25 million (USD),na,127,127,127.0,442,12
+data scientist,3.0,CVS Health,NY,10000+ Employees,1963,Company - Public,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),na,127,127,127.0,2946,59
+data scientist,4.3,Mastercard,MO,10000+ Employees,1966,Company - Public,Financial Transaction Processing,Financial Services,$5 to $10 billion (USD),na,127,127,127.0,2082,56
+data scientist,4.4,Adobe,CA,10000+ Employees,1982,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),na,127,127,127.0,696,40
+data scientist,3.6,State Farm,IL,10000+ Employees,1922,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),na,127,127,127.0,1124,100
+data scientist,4.3,Spotify,NY,5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,na,127,127,127.0,642,16
+machine learning engineer,4.0,General Motors,Remote,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),na,127,127,127.0,5028,114
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,127,127,127.0,550,89
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,127,127,127.0,1302,169
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),na,127,127,127.0,1508,44
+data scientist,3.2,Lidl US,VA,5001 to 10000 Employees,1973,Company - Private,Grocery Stores,Retail & Wholesale,Unknown / Non-Applicable,junior,127,127,127.0,98,49
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,1787,44
+data engineer,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),na,127,127,127.0,1567,169
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,127,127,127.0,550,89
+data scientist,4.5,Applied Resource Group,Remote,1 to 50 Employees,2010,Company - Private,HR Consulting,Human Resources & Staffing,$5 to $25 million (USD),senior,127,127,127.0,705,12
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,127,127,127.0,1004,4
+data scientist,4.0,Universal Orlando,FL,10000+ Employees,1987,Subsidiary or Business Segment,Hotels & Resorts,Hotels & Travel Accommodation,$1 to $5 billion (USD),na,127,127,127.0,967,35
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,127,127,127.0,910,4
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,1138,60
+data scientist,3.7,The Mom Project,Remote,51 to 200 Employees,2016,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,senior,127,127,127.0,4964,6
+data scientist,4.4,Princeton University,NJ,5001 to 10000 Employees,1746,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,senior,127,127,127.0,1054,276
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,817,60
+na,3.9,Zillow,Remote,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),na,127,127,127.0,1910,17
+data scientist,4.2,CyberCoders,CA,201 to 500 Employees,1999,Subsidiary or Business Segment,Staffing & Subcontracting,Human Resources & Staffing,$100 to $500 million (USD),na,127,127,127.0,979,23
+data analyst,3.7,The Mom Project,Remote,51 to 200 Employees,2016,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,senior,127,127,127.0,6128,6
+na,3.6,Tesla,CA,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),na,127,127,127.0,631,19
+machine learning engineer,4.0,Harnham,Remote,51 to 200 Employees,2006,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),na,127,127,127.0,486,16
+data scientist,4.2,Apple,WA,10000+ Employees,1976,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),na,127,127,127.0,690,46
+data scientist,4.0,Harnham,Remote,51 to 200 Employees,2006,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),senior,127,127,127.0,604,16
+na,4.1,John Deere,IL,10000+ Employees,1837,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),na,127,127,127.0,1140,185
+machine learning engineer,-1.0,Roc Search,TX,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,127,127,127.0,434,-1
+data scientist,4.1,TEKsystems,GA,1001 to 5000 Employees,1983,Subsidiary or Business Segment,HR Consulting,Human Resources & Staffing,$5 to $10 billion (USD),na,127,127,127.0,365,39
+data scientist,4.0,Harnham,CA,51 to 200 Employees,2006,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),senior,127,127,127.0,503,16
+data scientist,4.8,"Ursus, Inc.",WA,51 to 200 Employees,2015,Company - Private,Staffing & Subcontracting,Human Resources & Staffing,$25 to $100 million (USD),na,127,127,127.0,517,7
+data scientist,5.0,Engtal,Remote,1 to 50 Employees,2017,Company - Private,Staffing & Subcontracting,Human Resources & Staffing,$5 to $25 million (USD),senior,127,127,127.0,752,5
+data scientist,3.0,CVS Health,NY,10000+ Employees,1963,Company - Public,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),na,127,127,127.0,2946,59
+machine learning engineer,4.0,General Motors,Remote,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),na,127,127,127.0,5028,114
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,127,127,127.0,550,89
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,127,127,127.0,1302,169
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),na,127,127,127.0,1508,44
+data scientist,3.2,Lidl US,VA,5001 to 10000 Employees,1973,Company - Private,Grocery Stores,Retail & Wholesale,Unknown / Non-Applicable,junior,127,127,127.0,98,49
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,1787,44
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,127,127,127.0,550,89
+data scientist,4.5,Applied Resource Group,Remote,1 to 50 Employees,2010,Company - Private,HR Consulting,Human Resources & Staffing,$5 to $25 million (USD),senior,127,127,127.0,705,12
+data scientist,4.0,Universal Orlando,FL,10000+ Employees,1987,Subsidiary or Business Segment,Hotels & Resorts,Hotels & Travel Accommodation,$1 to $5 billion (USD),na,127,127,127.0,967,35
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,127,127,127.0,910,4
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,1138,60
+data analyst,3.7,The Mom Project,Remote,51 to 200 Employees,2016,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,senior,127,127,127.0,6128,6
+data scientist,4.4,Princeton University,NJ,5001 to 10000 Employees,1746,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,senior,127,127,127.0,1054,276
+data scientist,4.2,CyberCoders,CA,201 to 500 Employees,1999,Subsidiary or Business Segment,Staffing & Subcontracting,Human Resources & Staffing,$100 to $500 million (USD),na,127,127,127.0,979,23
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,817,60
+data scientist,4.2,CyberCoders,MD,201 to 500 Employees,1999,Subsidiary or Business Segment,Staffing & Subcontracting,Human Resources & Staffing,$100 to $500 million (USD),senior,127,127,127.0,1148,23
+na,3.9,Zillow,Remote,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),na,127,127,127.0,1910,17
+na,3.6,Tesla,CA,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),na,127,127,127.0,631,19
+machine learning engineer,4.0,Harnham,Remote,51 to 200 Employees,2006,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),na,127,127,127.0,486,16
+data scientist,4.2,Apple,WA,10000+ Employees,1976,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),na,127,127,127.0,690,46
+machine learning engineer,-1.0,Roc Search,TX,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,127,127,127.0,434,-1
+data scientist,4.1,TEKsystems,GA,1001 to 5000 Employees,1983,Subsidiary or Business Segment,HR Consulting,Human Resources & Staffing,$5 to $10 billion (USD),na,127,127,127.0,365,39
+data scientist,4.0,Harnham,CA,51 to 200 Employees,2006,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),senior,127,127,127.0,503,16
+na,4.1,John Deere,IL,10000+ Employees,1837,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),na,127,127,127.0,1140,185
+na,4.2,Seneca Resources,Remote,51 to 200 Employees,2010,Company - Private,HR Consulting,Human Resources & Staffing,$5 to $25 million (USD),na,127,127,127.0,442,12
+data scientist,5.0,Engtal,Remote,1 to 50 Employees,2017,Company - Private,Staffing & Subcontracting,Human Resources & Staffing,$5 to $25 million (USD),senior,127,127,127.0,752,5
+data scientist,3.0,CVS Health,NY,10000+ Employees,1963,Company - Public,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),na,127,127,127.0,2946,59
+data scientist,4.3,Spotify,NY,5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,na,127,127,127.0,642,16
+data scientist,3.6,State Farm,IL,10000+ Employees,1922,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),na,127,127,127.0,1124,100
+data scientist,3.5,Yelp,Remote,5001 to 10000 Employees,2004,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),na,127,127,127.0,1214,18
+machine learning engineer,4.0,General Motors,Remote,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),na,127,127,127.0,5028,114
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,127,127,127.0,550,89
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,127,127,127.0,1302,169
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),na,127,127,127.0,1508,44
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,1787,44
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,127,127,127.0,550,89
+data scientist,4.0,Universal Orlando,FL,10000+ Employees,1987,Subsidiary or Business Segment,Hotels & Resorts,Hotels & Travel Accommodation,$1 to $5 billion (USD),na,127,127,127.0,967,35
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,1011,60
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,127,127,127.0,910,4
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,1138,60
+data scientist,4.4,Princeton University,NJ,5001 to 10000 Employees,1746,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,senior,127,127,127.0,1054,276
+data scientist,4.2,CyberCoders,CA,201 to 500 Employees,1999,Subsidiary or Business Segment,Staffing & Subcontracting,Human Resources & Staffing,$100 to $500 million (USD),na,127,127,127.0,979,23
+data analyst,3.7,The Mom Project,Remote,51 to 200 Employees,2016,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,senior,127,127,127.0,6128,6
+na,3.9,Zillow,Remote,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),na,127,127,127.0,1910,17
+na,3.6,Tesla,CA,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),na,127,127,127.0,631,19
+machine learning engineer,-1.0,Roc Search,TX,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,127,127,127.0,434,-1
+data scientist,4.1,TEKsystems,GA,1001 to 5000 Employees,1983,Subsidiary or Business Segment,HR Consulting,Human Resources & Staffing,$5 to $10 billion (USD),na,127,127,127.0,365,39
+na,4.1,John Deere,IL,10000+ Employees,1837,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),na,127,127,127.0,1140,185
+data scientist,4.0,Harnham,CA,51 to 200 Employees,2006,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),senior,127,127,127.0,503,16
+data scientist,5.0,Engtal,Remote,1 to 50 Employees,2017,Company - Private,Staffing & Subcontracting,Human Resources & Staffing,$5 to $25 million (USD),senior,127,127,127.0,752,5
+na,4.2,Seneca Resources,Remote,51 to 200 Employees,2010,Company - Private,HR Consulting,Human Resources & Staffing,$5 to $25 million (USD),na,127,127,127.0,442,12
+data scientist,3.0,CVS Health,NY,10000+ Employees,1963,Company - Public,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),na,127,127,127.0,2946,59
+data scientist,3.5,Yelp,Remote,5001 to 10000 Employees,2004,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),na,127,127,127.0,1214,18
+data scientist,4.4,Adobe,CA,10000+ Employees,1982,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),na,127,127,127.0,696,40
+data scientist,3.6,State Farm,IL,10000+ Employees,1922,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),na,127,127,127.0,1124,100
+machine learning engineer,4.0,Redfin,Remote,1001 to 5000 Employees,2004,Company - Public,Real Estate,Real Estate,Unknown / Non-Applicable,na,127,127,127.0,1841,18
+data scientist,4.3,Spotify,NY,5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,na,127,127,127.0,339,16
+data scientist,4.3,Mastercard,MO,10000+ Employees,1966,Company - Public,Financial Transaction Processing,Financial Services,$5 to $10 billion (USD),na,127,127,127.0,2082,56
+data scientist,-1.0,Paramount Pictures,Remote,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,127,127,127.0,1344,-1
+data scientist,4.0,PayPal,AZ,10000+ Employees,1998,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),na,127,127,127.0,1518,24
+machine learning engineer,4.0,General Motors,Remote,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),na,127,127,127.0,5028,114
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,127,127,127.0,550,89
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,127,127,127.0,1302,169
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),na,127,127,127.0,1508,44
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,127,127,127.0,550,89
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,1787,44
+data scientist,4.0,Universal Orlando,FL,10000+ Employees,1987,Subsidiary or Business Segment,Hotels & Resorts,Hotels & Travel Accommodation,$1 to $5 billion (USD),na,127,127,127.0,967,35
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,127,127,127.0,910,4
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,1138,60
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,1011,60
+data analyst,3.7,The Mom Project,Remote,51 to 200 Employees,2016,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,senior,127,127,127.0,6128,6
+data scientist,4.4,Princeton University,NJ,5001 to 10000 Employees,1746,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,senior,127,127,127.0,1054,276
+na,4.1,John Deere,IL,10000+ Employees,1837,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),na,127,127,127.0,1140,185
+data scientist,4.2,Apple,WA,10000+ Employees,1976,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),na,127,127,127.0,690,46
+data scientist,4.1,TEKsystems,GA,1001 to 5000 Employees,1983,Subsidiary or Business Segment,HR Consulting,Human Resources & Staffing,$5 to $10 billion (USD),na,127,127,127.0,365,39
+machine learning engineer,-1.0,Roc Search,TX,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,127,127,127.0,434,-1
+data scientist,4.0,Harnham,CA,51 to 200 Employees,2006,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),senior,127,127,127.0,503,16
+data scientist,4.0,Harnham,MA,51 to 200 Employees,2006,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),senior,127,127,127.0,641,16
+na,4.2,Seneca Resources,Remote,51 to 200 Employees,2010,Company - Private,HR Consulting,Human Resources & Staffing,$5 to $25 million (USD),na,127,127,127.0,442,12
+data scientist,5.0,Engtal,Remote,1 to 50 Employees,2017,Company - Private,Staffing & Subcontracting,Human Resources & Staffing,$5 to $25 million (USD),senior,127,127,127.0,752,5
+data scientist,4.4,Adobe,CA,10000+ Employees,1982,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),na,127,127,127.0,696,40
+machine learning engineer,4.4,Adobe,WA,10000+ Employees,1982,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),na,127,127,127.0,697,40
+data scientist,4.3,Spotify,NY,5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,na,127,127,127.0,642,16
+data scientist,3.0,CVS Health,NY,10000+ Employees,1963,Company - Public,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),na,127,127,127.0,2946,59
+data analyst,-1.0,Ranial Systems Inc.,NY,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,junior,127,127,127.0,990,-1
+data scientist,3.5,Yelp,Remote,5001 to 10000 Employees,2004,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),na,127,127,127.0,1214,18
+machine learning engineer,4.0,Redfin,Remote,1001 to 5000 Employees,2004,Company - Public,Real Estate,Real Estate,Unknown / Non-Applicable,na,127,127,127.0,1841,18
+data scientist,3.6,State Farm,IL,10000+ Employees,1922,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),na,127,127,127.0,1124,100
+data scientist,4.2,Discord,CA,51 to 200 Employees,2015,Company - Private,Internet & Web Services,Information Technology,$1 to $5 million (USD),senior,127,127,127.0,4450,7
+data scientist,-1.0,Paramount Pictures,Remote,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,127,127,127.0,1344,-1
+machine learning engineer,4.0,General Motors,Remote,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),na,127,127,127.0,5028,114
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,127,127,127.0,550,89
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,127,127,127.0,1850,169
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),na,127,127,127.0,1508,44
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,127,127,127.0,550,89
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,1787,44
+data scientist,4.0,Universal Orlando,FL,10000+ Employees,1987,Subsidiary or Business Segment,Hotels & Resorts,Hotels & Travel Accommodation,$1 to $5 billion (USD),na,127,127,127.0,967,35
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,127,127,127.0,910,4
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,1138,60
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,1011,60
+data analyst,3.7,The Mom Project,Remote,51 to 200 Employees,2016,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,senior,127,127,127.0,6128,6
+data scientist,4.4,Princeton University,NJ,5001 to 10000 Employees,1746,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,senior,127,127,127.0,1054,276
+na,4.1,John Deere,IL,10000+ Employees,1837,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),na,127,127,127.0,1140,185
+data scientist,4.2,Apple,WA,10000+ Employees,1976,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),na,127,127,127.0,690,46
+data scientist,4.1,TEKsystems,GA,1001 to 5000 Employees,1983,Subsidiary or Business Segment,HR Consulting,Human Resources & Staffing,$5 to $10 billion (USD),na,127,127,127.0,365,39
+machine learning engineer,-1.0,Roc Search,TX,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,127,127,127.0,434,-1
+data scientist,4.0,Harnham,CA,51 to 200 Employees,2006,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),senior,127,127,127.0,503,16
+data scientist,4.0,Harnham,MA,51 to 200 Employees,2006,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),senior,127,127,127.0,641,16
+na,4.2,Seneca Resources,Remote,51 to 200 Employees,2010,Company - Private,HR Consulting,Human Resources & Staffing,$5 to $25 million (USD),na,127,127,127.0,442,12
+data scientist,5.0,Engtal,Remote,1 to 50 Employees,2017,Company - Private,Staffing & Subcontracting,Human Resources & Staffing,$5 to $25 million (USD),senior,127,127,127.0,752,5
+data scientist,4.4,Adobe,CA,10000+ Employees,1982,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),na,127,127,127.0,696,40
+machine learning engineer,4.4,Adobe,WA,10000+ Employees,1982,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),na,127,127,127.0,697,40
+data scientist,4.3,Spotify,NY,5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,na,127,127,127.0,642,16
+data scientist,3.0,CVS Health,NY,10000+ Employees,1963,Company - Public,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),na,127,127,127.0,2946,59
+data analyst,-1.0,Ranial Systems Inc.,NY,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,junior,127,127,127.0,990,-1
+data scientist,3.5,Yelp,Remote,5001 to 10000 Employees,2004,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),na,127,127,127.0,1214,18
+machine learning engineer,4.0,Redfin,Remote,1001 to 5000 Employees,2004,Company - Public,Real Estate,Real Estate,Unknown / Non-Applicable,na,127,127,127.0,1841,18
+data scientist,3.6,State Farm,IL,10000+ Employees,1922,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),na,127,127,127.0,1124,100
+data scientist,4.2,Discord,CA,51 to 200 Employees,2015,Company - Private,Internet & Web Services,Information Technology,$1 to $5 million (USD),senior,127,127,127.0,4450,7
+data scientist,-1.0,Paramount Pictures,Remote,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,127,127,127.0,1344,-1
+machine learning engineer,4.0,General Motors,Remote,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),na,127,127,127.0,5028,114
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,127,127,127.0,550,89
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,127,127,127.0,1850,169
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),na,127,127,127.0,1508,44
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,127,127,127.0,550,89
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,1787,44
+data scientist,4.0,Universal Orlando,FL,10000+ Employees,1987,Subsidiary or Business Segment,Hotels & Resorts,Hotels & Travel Accommodation,$1 to $5 billion (USD),na,127,127,127.0,967,35
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,127,127,127.0,910,4
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,1138,60
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,1011,60
+data analyst,3.7,The Mom Project,Remote,51 to 200 Employees,2016,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,senior,127,127,127.0,6128,6
+data scientist,4.4,Princeton University,NJ,5001 to 10000 Employees,1746,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,senior,127,127,127.0,1054,276
+na,4.1,John Deere,IL,10000+ Employees,1837,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),na,127,127,127.0,1140,185
+data scientist,4.2,Apple,WA,10000+ Employees,1976,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),na,127,127,127.0,690,46
+data scientist,4.1,TEKsystems,GA,1001 to 5000 Employees,1983,Subsidiary or Business Segment,HR Consulting,Human Resources & Staffing,$5 to $10 billion (USD),na,127,127,127.0,365,39
+machine learning engineer,-1.0,Roc Search,TX,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,127,127,127.0,434,-1
+data scientist,4.0,Harnham,CA,51 to 200 Employees,2006,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),senior,127,127,127.0,503,16
+data scientist,4.0,Harnham,MA,51 to 200 Employees,2006,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),senior,127,127,127.0,641,16
+na,4.2,Seneca Resources,Remote,51 to 200 Employees,2010,Company - Private,HR Consulting,Human Resources & Staffing,$5 to $25 million (USD),na,127,127,127.0,442,12
+data scientist,5.0,Engtal,Remote,1 to 50 Employees,2017,Company - Private,Staffing & Subcontracting,Human Resources & Staffing,$5 to $25 million (USD),senior,127,127,127.0,752,5
+data scientist,4.4,Adobe,CA,10000+ Employees,1982,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),na,127,127,127.0,696,40
+machine learning engineer,4.4,Adobe,WA,10000+ Employees,1982,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),na,127,127,127.0,697,40
+data scientist,4.3,Spotify,NY,5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,na,127,127,127.0,642,16
+data scientist,3.0,CVS Health,NY,10000+ Employees,1963,Company - Public,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),na,127,127,127.0,2946,59
+data analyst,-1.0,Ranial Systems Inc.,NY,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,junior,127,127,127.0,990,-1
+data scientist,3.5,Yelp,Remote,5001 to 10000 Employees,2004,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),na,127,127,127.0,1214,18
+machine learning engineer,4.0,Redfin,Remote,1001 to 5000 Employees,2004,Company - Public,Real Estate,Real Estate,Unknown / Non-Applicable,na,127,127,127.0,1841,18
+data scientist,3.6,State Farm,IL,10000+ Employees,1922,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),na,127,127,127.0,1124,100
+data scientist,4.2,Discord,CA,51 to 200 Employees,2015,Company - Private,Internet & Web Services,Information Technology,$1 to $5 million (USD),senior,127,127,127.0,4450,7
+data scientist,-1.0,Paramount Pictures,Remote,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,127,127,127.0,1344,-1
+machine learning engineer,4.0,General Motors,Remote,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),na,127,127,127.0,5028,114
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,127,127,127.0,550,89
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,127,127,127.0,1850,169
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),na,127,127,127.0,1508,44
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,127,127,127.0,550,89
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,1787,44
+data scientist,4.0,Universal Orlando,FL,10000+ Employees,1987,Subsidiary or Business Segment,Hotels & Resorts,Hotels & Travel Accommodation,$1 to $5 billion (USD),na,127,127,127.0,967,35
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,127,127,127.0,910,4
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,1138,60
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,1011,60
+data analyst,3.7,The Mom Project,Remote,51 to 200 Employees,2016,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,senior,127,127,127.0,6128,6
+data scientist,4.4,Princeton University,NJ,5001 to 10000 Employees,1746,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,senior,127,127,127.0,1054,276
+na,4.1,John Deere,IL,10000+ Employees,1837,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),na,127,127,127.0,1140,185
+data scientist,4.2,Apple,WA,10000+ Employees,1976,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),na,127,127,127.0,690,46
+data scientist,4.1,TEKsystems,GA,1001 to 5000 Employees,1983,Subsidiary or Business Segment,HR Consulting,Human Resources & Staffing,$5 to $10 billion (USD),na,127,127,127.0,365,39
+machine learning engineer,-1.0,Roc Search,TX,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,127,127,127.0,434,-1
+data scientist,4.0,Harnham,CA,51 to 200 Employees,2006,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),senior,127,127,127.0,503,16
+data scientist,4.0,Harnham,MA,51 to 200 Employees,2006,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),senior,127,127,127.0,641,16
+na,4.2,Seneca Resources,Remote,51 to 200 Employees,2010,Company - Private,HR Consulting,Human Resources & Staffing,$5 to $25 million (USD),na,127,127,127.0,442,12
+data scientist,5.0,Engtal,Remote,1 to 50 Employees,2017,Company - Private,Staffing & Subcontracting,Human Resources & Staffing,$5 to $25 million (USD),senior,127,127,127.0,752,5
+data scientist,4.4,Adobe,CA,10000+ Employees,1982,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),na,127,127,127.0,696,40
+machine learning engineer,4.4,Adobe,WA,10000+ Employees,1982,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),na,127,127,127.0,697,40
+data scientist,4.3,Spotify,NY,5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,na,127,127,127.0,642,16
+data scientist,3.0,CVS Health,NY,10000+ Employees,1963,Company - Public,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),na,127,127,127.0,2946,59
+data analyst,-1.0,Ranial Systems Inc.,NY,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,junior,127,127,127.0,990,-1
+data scientist,3.5,Yelp,Remote,5001 to 10000 Employees,2004,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),na,127,127,127.0,1214,18
+machine learning engineer,4.0,Redfin,Remote,1001 to 5000 Employees,2004,Company - Public,Real Estate,Real Estate,Unknown / Non-Applicable,na,127,127,127.0,1841,18
+data scientist,3.6,State Farm,IL,10000+ Employees,1922,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),na,127,127,127.0,1124,100
+data scientist,4.2,Discord,CA,51 to 200 Employees,2015,Company - Private,Internet & Web Services,Information Technology,$1 to $5 million (USD),senior,127,127,127.0,4450,7
+data scientist,-1.0,Paramount Pictures,Remote,Unknown,-1,-1,-1,-1,Unknown / Non-Applicable,na,127,127,127.0,1344,-1
+machine learning engineer,4.0,General Motors,Remote,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),na,127,127,127.0,5028,114
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,127,127,127.0,550,89
+data scientist,3.9,"The Travelers Companies, Inc.",CT,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),senior,127,127,127.0,1850,169
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),na,127,127,127.0,1508,44
+data scientist,4.1,Navy Federal Credit Union,VA,10000+ Employees,1933,Self-employed,Banking & Lending,Financial Services,Unknown / Non-Applicable,na,127,127,127.0,550,89
+data scientist,3.8,The Home Depot,GA,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,1787,44
+data scientist,4.0,Universal Orlando,FL,10000+ Employees,1987,Subsidiary or Business Segment,Hotels & Resorts,Hotels & Travel Accommodation,$1 to $5 billion (USD),na,127,127,127.0,967,35
+data scientist,3.7,Guidehouse,WA,1001 to 5000 Employees,2018,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,senior,127,127,127.0,910,4
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,1138,60
+data scientist,3.6,Target,MN,10000+ Employees,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,$10+ billion (USD),senior,127,127,127.0,1011,60
