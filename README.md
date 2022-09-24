@@ -5,7 +5,7 @@ Create a tool that estimates data analyst/scientist salaries to help users negot
 
 ## What's in the Project
 - Scrape about 2000 jobs from Glassdoor using Python and Selenium.
-- Clean data and engineer features from the job title and job description. Quantify these data as job positions, seniorities, and required skills.
+- Clean data and engineer features from the job title and job description, quantifying these data as job positions, seniorities, and required skills.
 -
 - Optimize Linear, Lasso, and Random Forest Regression using GridSearchCV to reach the best model.
 - Build a client-facing API using Flask.
