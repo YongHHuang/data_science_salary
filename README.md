@@ -28,7 +28,7 @@ The Glassdoor scraper was from 2019, and part of the code is outdated. I Updated
 - Company Name
 - Job Location
 - Company Size
-- Comapny Founded
+- Comapny Founded Year
 - Type of Ownership
 - Industry
 - Sector
@@ -37,4 +37,25 @@ The Glassdoor scraper was from 2019, and part of the code is outdated. I Updated
 ## Data Cleaning
 Cleaned the collected data for eda and model. Following changes were made and new variables created:
 - Removed duplicated rows and renamed columns.
-- 
+- Created a new column seniority from job title. Seniorities are decided by the keyword in job title.
+- Simplified job titles.
+- Remove rows without salary.
+- Parsed numeric data out of salary.
+- Created a new column description_len for the length of job description.
+- Created new columns for skills that mentioned in the job description:
+  - Big Data(Spark or Hadoop)
+  - Cloud(AWS or Azure)
+  - Excel
+  - ML(Machine Learning or Deep Learning)
+  - RPython(R or Python)
+  - SQL
+  - Viztool(Tableau or PowerBI)
+- Parsed the state abbreviation out of location.
+- Transformed company founded year into the age of comapny.
+
+## EDA
+Explored the distributions, value counts, pivot tables, etc. of the data. Below are some highlights from visualizations.
+![alt text](image/average_salary.png)
+![alt text](image/correlation.png)
+![alt text](image/skills.png)
+![alt text](image/keywords.png)
