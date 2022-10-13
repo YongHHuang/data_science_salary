@@ -57,11 +57,11 @@ Cleaned the collected data for eda and model. Following changes were made and ne
 Explored the distributions, value counts, pivot tables, etc. of the data. Below are some highlights from visualizations.
 
 <p align="left" width="100%">
-    <img width="33%" height=250 src="image/correlation.png"> 
-    <img width="33%" height=250 src="image/average_salary.png"> 
-    <img width="33%" height=250 src="image/skills.png"> 
+    <img width="33%" height=280 src="image/correlation.png"> 
+    <img width="33%" height=280 src="image/average_salary.png"> 
+    <img width="33%" height=280 src="image/skills.png"> 
 </p>
 
 <p align="center" width="100%">
-    <img width="50%" height=250 src="image/keywords.png"> 
+    <img width="50%" height=280 src="image/keywords.png"> 
 </p>
