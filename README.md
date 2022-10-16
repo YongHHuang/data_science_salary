@@ -1,7 +1,7 @@
 # Data Scientist Salary Estimator
 
 ## Project Goal
-Created a tool that estimated data scientist salaries to help users negotiate their income when they get a job.
+Created a tool that estimated data scientist salaries(MAE ~ $ 19K) to help users negotiate their income when they get a job.
 
 ## What's in the Project
 - Scraped over 1000 jobs from Glassdoor using Python and Selenium.
@@ -65,3 +65,19 @@ Explored the distributions, value counts, pivot tables, etc. of the data. Below 
     <img width="45%" height=280 src="image/skills.png"> 
     <img width="54%" height=280 src="image/keywords.png"> 
 </p>
+
+## Model Building
+First, encoded categorical columns using pd.get_dummies. Then, split the data into 80% training set and 20% test set. Finally, built three models and evaluated them using Mean Absolte Error(MAE). The reasons to choose MAE are it is easy to interpret and outliers aren't heavily punished (compares to RMSE).
+Three models are:
+- Linear Regression — Baseline for the model
+- Lasso Regression
+- Random Forest Regression
+
+## Model Performance
+The Random Forest Regression had the best performance on training and test set.
+- Linear Regression: MAE = $22.25K
+- Lasso Regression: MAE = $20.67K
+- Random Forest Regression: MAE = $19.27K
+
+## Productionize
+Built a flask API endpoint that was hosted on a local webserver. The API endpoint takes in user inputs and returns an estimated salary.
