@@ -63,5 +63,5 @@ Explored the distributions, value counts, pivot tables, etc. of the data. Below 
 </p>
 <p align="center" width="100%">    
     <img width="45%" height=280 src="image/skills.png"> 
-    <img width="55%" height=280 src="image/keywords.png"> 
+    <img width="54%" height=280 src="image/keywords.png"> 
 </p>
