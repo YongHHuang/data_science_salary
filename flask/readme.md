@@ -31,7 +31,14 @@ Move the pickle file `model_file.p` into `models` file. Store html files in `tem
 
 # Run the app
 Run the command: <br>
-`python wsgi.py`
-You'll see this: ![gg](run.png)
+`python wsgi.py` <br>
+
+And you'll see this: <br>
+![result](images/run.png) <br>
+
+It shows the application is running locally on the URL http://127.0.0.1:5000. Navigate to the URL in the browser and an user-input form will show up. <br>
+![form](images/input.png) <br>
+
+
 
 
