@@ -84,5 +84,5 @@ Built a flask API endpoint that was hosted on a local webserver. The API endpoin
 
 <p align="left" width="100%">    
     <img width="55%" height=250 src="image/input.png">
-    <img width="25%" height=40 src="image/result.png">
+    <img width="25%" height=40 src="image/result.png" align="top">
 </p>
