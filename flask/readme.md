@@ -37,11 +37,19 @@ And you'll see this: <br>
 ![result](images/run.png) <br>
 
 It shows the application is running locally on the URL http://127.0.0.1:5000. Navigate to the URL in the browser and a form will show up. <br>
-![form](images/input_form.png) <br>
+<p align="left" width="100%">
+    <img width="55%" height=250 src="images/input_form.png">      
+</p>
 
 Fill the form using information from Glassdoor job posting and get the result. <br>
-![input](images/input.png) 
-![result](images/result.png) <br>
+<p align="left" width="100%">    
+    <img width="55%" height=250 src="images/input.png">      
+</p>
+
+---
+<p align="left" width="100%">    
+    <img width="25%" height=40 src="images/result.png">      
+</p>
 
 
 
