@@ -1,7 +1,7 @@
 # Data Scientist Salary Estimator
 
 ## Project Goal
-Created a tool that estimated data scientist salaries(MAE ~ $ 19K) to help users negotiate their income when they get a job.
+Created a tool that estimated data scientist salaries to help users negotiate their income when they get a job.
 
 ## What's in the Project
 - Scraped over 1000 jobs from Glassdoor using Python and Selenium.
@@ -35,14 +35,11 @@ The Glassdoor scraper was from 2019, and part of the code is outdated. I Updated
 - Revenue
 
 ## Data Cleaning
-Cleaned the collected data for eda and model. Following changes were made and new variables created:
-- Removed duplicated rows and renamed columns.
-- Created a new column seniority from job title. Seniorities are decided by the keyword in job title.
-- Simplified job titles.
-- Remove rows without salary.
-- Parsed numeric data out of salary.
-- Created a new column description_len for the length of job description.
-- Created new columns for skills that mentioned in the job description:
+Other than fixing or removing incorrect, corrupted, incorrectly formatted, duplicate, or incomplete data within a dataset, we also made the following changes:
+- According to the keyword in the job title, created a seniority column that classified jobs into three categories: Low, High, and Unknown.
+- Simplified job titles to six categories: Data Analyst, Data Scientist, Data Engineer, ML Engineer, Manager, and Others.
+- Created a description_len column for the length of the job description.
+- Created six skill columns which having 1 if that specific skill is mentioned in the job description and 0 otherwise:
   - Big Data(Spark or Hadoop)
   - Cloud(AWS or Azure)
   - Excel
@@ -50,11 +47,14 @@ Cleaned the collected data for eda and model. Following changes were made and ne
   - RPython(R or Python)
   - SQL
   - Viztool(Tableau or PowerBI)
-- Parsed the state abbreviation out of location.
-- Transformed company founded year into the age of comapny.
+Transformed the company founded year into the age of the company.
 
 ## EDA
-Explored the distributions, value counts, pivot tables, etc. of the data. Below are some highlights from visualizations.
+This analysis aims to help me learn more about the data science industry. It interests me because I am seeking a data analyst/scientist job and some of questions are:
+- What are their salaries?
+- How many jobs are there available in different locations?
+- What professional skills are more worth to invest or what do companies need?
+- What are common keywords that I should put on my resume?
 
 <p align="left" width="100%">
     <img width="45%" height=280 src="image/correlation.png"> 
