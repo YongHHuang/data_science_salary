@@ -57,13 +57,13 @@ This analysis aims to help me learn more about the data science industry. It int
 - What are common keywords that I should put on my resume?
 
 <p align="left" width="100%">
-    <img width="48%" height=280 src="image/salary.png"> 
-    <img width="48%" height=280 src="image/job_counts.png"> 
+    <img width="45%" height=300 src="image/salary.png"> 
+    <img width="45%" height=300 src="image/job_counts.png"> 
     
 </p>
-<p align="center" width="100%">    
-    <img width="48%" height=280 src="image/skills.png"> 
-    <img width="48%" height=280 src="image/keywords.png"> 
+<p align="left" width="100%">    
+    <img width="45%" height=300 src="image/skills.png"> 
+    <img width="45%" height=300 src="image/keywords.png"> 
 </p>
 
 ## Model Building
