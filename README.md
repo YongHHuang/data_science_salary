@@ -57,24 +57,17 @@ This analysis aims to help me learn more about the data science industry. It int
 - What are common keywords that I should put on my resume?
 
 <p align="left" width="100%">
-    <img width="45%" height=280 src="image/correlation.png"> 
-    <img width="45%" height=280 src="image/average_salary.png"> 
+    <img width="48%" height=280 src="image/salary.png"> 
+    <img width="48%" height=280 src="image/job_counts.png"> 
     
 </p>
 <p align="center" width="100%">    
-    <img width="45%" height=280 src="image/skills.png"> 
-    <img width="54%" height=280 src="image/keywords.png"> 
+    <img width="48%" height=280 src="image/skills.png"> 
+    <img width="48%" height=280 src="image/keywords.png"> 
 </p>
 
 ## Model Building
-First, encoded categorical columns using pd.get_dummies. Then, split the data into 80% training set and 20% test set. Finally, built three models and evaluated them using Mean Absolte Error(MAE). The reasons to choose MAE are it is easy to interpret and outliers aren't heavily punished (compares to RMSE).
-Three models are:
-- Linear Regression — Baseline for the model
-- Lasso Regression
-- Random Forest Regression
-
-## Model Performance
-The Random Forest Regression had the best performance on training and test set.
+First, encoded categorical columns using pd.get_dummies. Then, split the data into 80% training set and 20% test set. Finally, built three models and evaluated them using Mean Absolte Error(MAE). Three models are:
 - Linear Regression: MAE = $22.25K
 - Lasso Regression: MAE = $20.67K
 - Random Forest Regression: MAE = $19.27K
