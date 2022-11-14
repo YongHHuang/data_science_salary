@@ -1,7 +1,7 @@
 # Data Scientist Salary Estimator
 
 ## Project Goal
-Created a tool that estimated data scientist salaries to help users negotiate their income when they get a job.
+Created a tool that estimated data scientists' salaries to help users negotiate their income when they get a job.
 
 ## What's in the Project
 - Scraped over 1000 jobs from Glassdoor using Python and Selenium.
@@ -51,20 +51,39 @@ Transformed the company founded year into the age of the company.
 
 ## EDA
 This analysis aims to help me learn more about the data science industry. It interests me because I am seeking a data analyst/scientist job and some of questions are:
-- What are their salaries?
-- How many jobs are there available in different locations?
-- What professional skills are more worth to invest or what do companies need?
-- What are common keywords that I should put on my resume?
+1. What are their salaries?
+2. How many job openings are there?
+3. What professional skills do companies need?
+4. What are common keywords that I should put on my resume? <br><br>
 
-<p align="left" width="100%">
-    <img width="45%" height=300 src="image/salary.png"> 
-    <img width="45%" height=300 src="image/job_counts.png"> 
+<h3> 1. What are their salaries? </h3>
+A data scientist's average salary is about 80K ~ 140K. Washington, California, and New York States have the highest salaries.
+
+<p align="left" width="50%"> <br><br>
+    <img width="55%" height=500 src="image/salary.png"> 
+</p> <br>  
     
-</p>
-<p align="left" width="100%">    
-    <img width="45%" height=300 src="image/skills.png"> 
-    <img width="45%" height=300 src="image/keywords.png"> 
-</p>
+<h3> 2. How many job openings are there? </h3>
+California and work from home positions have the most openings.
+
+<p align="left" width="50%"> <br><br>
+    <img width="55%" height=500 src="image/job_counts.png">
+</p> <br>
+
+<h3> 3. What professional skills do companies need? </h3>
+Most companies require candidates to have R/Python, SQL, and machine learning skills.
+
+<p align="left" width="50%"> <br><br>
+    <img width="55%" height=500 src="image/skills.png">
+</p> <br>  
+
+<h3> 4. What are common keywords in job descriptions? </h3>
+The keywords that appear most in all job descriptions are team, data science/scientist, and machine learning.
+
+<p align="left" width="50%"> <br><br>
+    <img width="55%" height=500 src="image/keywords.png">
+</p> <br>
+    
 
 ## Model Building
 First, encoded categorical columns using pd.get_dummies. Then, split the data into 80% training set and 20% test set. Finally, built three models and evaluated them using Mean Absolte Error(MAE). Three models are:
