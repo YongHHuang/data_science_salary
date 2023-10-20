@@ -1,14 +1,31 @@
-# Data Scientist Salary Estimator
+# ***Data Science Job Market Analysis***<br><br>
 
-## Project Goal
-Created a tool that estimated data scientists' salaries to help users negotiate their income when they get a job.
+## ***Software and Language***
+Python 3.8 <br>
 
-## What's in the Project
-- Scraped over 1000 jobs from Glassdoor using Python and Selenium.
-- Cleaned data and engineered features from the job title and job description, quantifying these data as job positions, seniorities, and required skills.
-- Performed exploratory data analysis(EDA) and visualized the findings.
-- Optimized Linear, Lasso, and Random Forest Regression using GridSearchCV to reach the best model.
-- Built a client-facing API using Flask.
+## ***Project Overview***
+This project aimed to enhance my prospects of securing a data analyst/scientist role by comprehensively understanding the job market. I achieved this by scraping job listings from platforms like Glassdoor using Selenium. The primary objectives were:
+- Identified in-demand skills highly sought after by employers.
+- Extracted crucial keywords to enhance resume quality and effectiveness.
+- Examined average salary benchmarks, categorized by job titles and geographical regions.
+- Evaluated job opening distribution across various states.
+
+## ***Results***
+1. Top 3 In-Demand Skills for Employers:<br><br>
+Most companies require candidates to possess R/Python, machine learning, and SQL skills.
+
+
+<p align="2000px" width="50%" >
+    <img width="40%" height=300 src="image/skills.png">
+</p> <br>  
+
+2. The common keywords in job descriptions:<br><br>
+
+<p align="left" width="50%"> 
+    <img width="55%" height=500 src="image/keywords.png">
+</p> <br>
+3. 
+4. 
 
 ## Code and Resources Used
 Python Version: 3.8 <br>
