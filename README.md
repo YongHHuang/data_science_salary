@@ -11,7 +11,7 @@ This project aimed to enhance my prospects of securing a data analyst/scientist 
 - Evaluated job opening distribution across various states.
 
 ## ***Results***
-1. Top 3 In-Demand Skills for Employers:<br><br>
+**1. Top 3 In-Demand Skills for Employers:<br><br>**
 Most companies require candidates to have proficiency in R/Python, SQL, and machine learning. Some also seek expertise in big data (Spark or Hadoop), cloud platforms (AWS or Azure), Excel, and data visualization tools like Tableau or Power BI.
 
 
@@ -19,7 +19,7 @@ Most companies require candidates to have proficiency in R/Python, SQL, and mach
     <img width="40%" height=300 src="image/skills.png">
 </p> <br>  
 
-2. The common keywords in job descriptions:<br><br>
+**2. Common keywords in job descriptions:<br><br>**
 
 <p align="left" width="50%"> 
     <img width="55%" height=500 src="image/keywords.png">
