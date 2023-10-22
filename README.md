@@ -12,7 +12,7 @@ This project aimed to enhance my prospects of securing a data analyst/scientist 
 
 ## ***Results***
 **1. Top 3 In-Demand Skills for Employers:<br><br>**
-Most companies require candidates to have proficiency in R/Python, SQL, and machine learning. Some also seek expertise in big data (Spark or Hadoop), cloud platforms (AWS or Azure), Excel, and data visualization tools like Tableau or Power BI.
+Most companies require candidates to possess technical skills like R/Python, SQL, machine learning, big data (Spark or Hadoop), cloud platforms (AWS or Azure), Excel, and data visualization tools (Tableau or Power BI). These skills were extracted from the 'Qualifications' section of job descriptions and categorized accordingly.
 
 
 <p align="2000px" width="50%" >
