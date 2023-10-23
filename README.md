@@ -4,7 +4,7 @@
 Python 3.8 <br>
 
 ## ***Project Overview***
-This project aimed to enhance my prospects of securing a data analyst/scientist role by comprehensively understanding the job market. I achieved this by scraping job listings from platforms like Glassdoor using Selenium. The primary objectives were:
+This project aimed to enhance my prospects of securing a data analyst/scientist role by comprehensively understanding the job market. I achieved this by scraping and analyzing job listings from platforms like Glassdoor using Selenium. The primary objectives were:
 - Identified in-demand skills highly sought after by employers.
 - Extracted crucial keywords to enhance resume quality and effectiveness.
 - Examined average salary benchmarks, categorized by job titles and geographical regions.
