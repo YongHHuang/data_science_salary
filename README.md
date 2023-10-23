@@ -15,14 +15,16 @@ This project aimed to enhance my prospects of securing a data analyst/scientist 
 Most companies require candidates to possess technical skills like R/Python, SQL, machine learning, big data (Spark or Hadoop), cloud platforms (AWS or Azure), Excel, and data visualization tools (Tableau or Power BI). These skills were extracted from the 'Qualifications' section of job descriptions and categorized accordingly.
 
 
-<p align="2000px" width="50%" >
-    <img width="40%" height=300 src="image/skills.png">
+<p align="left" width="50%" >
+    <img width="40%" height=250 src="image/skills.png">
 </p> <br>  
 
 **2. Common keywords in job descriptions:<br><br>**
+Identified top job description keywords using the Natural Language Toolkit (NLTK) and created a word cloud. Using these keywords in the resume can enhance compatibility with applicant tracking systems (ATS).
+
 
 <p align="left" width="50%"> 
-    <img width="55%" height=500 src="image/keywords.png">
+    <img width="55%" height=300 src="image/keywords.png">
 </p> <br>
 3. 
 4. 
