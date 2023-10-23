@@ -16,7 +16,7 @@ Most companies require candidates to possess technical skills like R/Python, SQL
 
 
 <p align="left" width="50%" >
-    <img width="40%" height=250 src="image/skills.png">
+    <img width="55%" height=250 src="image/skills.png">
 </p> <br>  
 
 **2. Common keywords in job descriptions:<br><br>**
