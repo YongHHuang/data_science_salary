@@ -78,25 +78,6 @@ Other than fixing or removing incorrect, corrupted, incorrectly formatted, dupli
   - SQL
   - Viztool(Tableau or PowerBI)
 Transformed the company founded year into the age of the company.
-
-## EDA
-This analysis aims to help me learn more about the data science industry. It interests me because I am seeking a data analyst/scientist job and some of questions are:
-1. What are their salaries?
-2. How many job openings are there?
-3. What professional skills do companies need?
-4. What are common keywords that I should put on my resume? <br><br>
-
-<h3> 1. What are their salaries? </h3>
-A data scientist's average salary is about 80K ~ 140K. Washington, California, and New York States have the highest salaries.
-
-<p align="left" width="50%"> <br><br>
-    <img width="55%" height=500 src="image/salary.png"> 
-</p> <br>  
-    
-<h3> 2. How many job openings are there? </h3>
-California and work from home positions have the most openings.
-
-
     
 
 ## Model Building
