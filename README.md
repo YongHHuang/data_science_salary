@@ -88,23 +88,7 @@ A data scientist's average salary is about 80K ~ 140K. Washington, California, a
 <h3> 2. How many job openings are there? </h3>
 California and work from home positions have the most openings.
 
-<p align="left" width="50%"> <br><br>
-    <img width="55%" height=500 src="image/job_counts.png">
-</p> <br>
 
-<h3> 3. What professional skills do companies need? </h3>
-Most companies require candidates to have R/Python, SQL, and machine learning skills.
-
-<p align="left" width="50%"> <br><br>
-    <img width="55%" height=500 src="image/skills.png">
-</p> <br>  
-
-<h3> 4. What are common keywords in job descriptions? </h3>
-The keywords that appear most in all job descriptions are team, data science/scientist, and machine learning.
-
-<p align="left" width="50%"> <br><br>
-    <img width="55%" height=500 src="image/keywords.png">
-</p> <br>
     
 
 ## Model Building
