@@ -26,11 +26,19 @@ Identified top job description keywords using the Natural Language Toolkit (NLTK
 </p> <br>
  
 **3. Average Salaries in Different States:<br><br>**
-The average salary for a data scientist varies from $80,000 to $140,000 across different states. Notably, Washington, California, and New York offer the highest salaries. 
+The average salary for a data scientist varied from $80,000 to $140,000 across different states. Notably, Washington, California, and New York offered the highest salaries. 
 
 <p align="left" width="50%"> <br><br>
     <img width="55%" height=300 src="image/salary.png">
 </p> <br> 
+
+**4. Job Opening Distribution Across States:<br><br>**
+Remote and California led in job openings, with more than double the number of openings compared to the third-ranked state, New York. 
+
+<p align="left" width="50%"> <br><br>
+    <img width="55%" height=300 src="image/job_counts.png">
+</p> <br>
+
 
 ## Code and Resources Used
 Python Version: 3.8 <br>
