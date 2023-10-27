@@ -14,7 +14,6 @@ This project aimed to enhance my prospects of securing a data analyst/scientist 
 **1. Top 3 In-Demand Skills for Employers:<br><br>**
 Most companies require candidates to possess technical skills like R/Python, SQL, machine learning, big data (Spark or Hadoop), cloud platforms (AWS or Azure), Excel, and data visualization tools (Tableau or Power BI). These skills were extracted from the 'Qualifications' section of job descriptions and categorized accordingly.
 
-
 <p align="left" width="50%" >
     <img width="55%" height=250 src="image/skills.png">
 </p> <br>  
@@ -22,12 +21,16 @@ Most companies require candidates to possess technical skills like R/Python, SQL
 **2. Common keywords in job descriptions:<br><br>**
 Identified top job description keywords using the Natural Language Toolkit (NLTK) and created a word cloud. Using these keywords in the resume can enhance compatibility with applicant tracking systems (ATS).
 
-
 <p align="left" width="50%"> 
     <img width="55%" height=300 src="image/keywords.png">
 </p> <br>
-3. 
-4. 
+ 
+**3. Average Salaries in Different States:<br><br>**
+The average salary for a data scientist varies from $80,000 to $140,000 across different states. Notably, Washington, California, and New York offer the highest salaries. 
+
+<p align="left" width="50%"> <br><br>
+    <img width="55%" height=300 src="image/salary.png">
+</p> <br> 
 
 ## Code and Resources Used
 Python Version: 3.8 <br>
