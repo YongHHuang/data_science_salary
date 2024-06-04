@@ -1,7 +1,8 @@
-# ***Data Science Job Market Analysis***<br><br>
+# ***Job Market Analysis***<br><br>
 
 ## ***Software and Language***
-Python 3.8 <br>
+Python 3.12.3
+Tableau Desktop 2024.1.2<br>
 
 ## ***Project Overview***
 This project aimed to enhance my prospects of securing a data analyst/scientist role by comprehensively understanding the job market. I achieved this by scraping and analyzing job listings from platforms like Glassdoor using Selenium. The primary objectives were:
