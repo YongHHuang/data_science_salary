@@ -1,4 +1,4 @@
-# ***Job Market Analysis***<br><br>
+# ***Data Analyst Job Market Analysis***<br><br>
 
 ## ***Software and Language***
 Python 3.12.3
