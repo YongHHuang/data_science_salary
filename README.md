@@ -10,8 +10,9 @@ The project aims to assist individuals in landing their first job as data profes
 ## ***Summary***
 Contrary to expectations, over 200,000 job listings searching by 'data analyst' and related keywords yielded about 40,000 'Software Engineer' positions and only 14,000 'Data Analyst/Scientist' positions. We will focus on the roles of 'Data Analyst,' 'Data Scientist,' 'Machine Learning Engineer,' and 'Data Engineer.' Below is the word cloud representing all roles and the pie chart depicting four specific roles.
 
-
-<img src="images/all_jobs2.png">
+<p align="center" width="50%" >
+    <img width="75%" height="75%" src="images/all_jobs2.png">
+</p><br>  
 <img src="images/roles_pie.png">
 
 
@@ -21,7 +22,7 @@ Contrary to expectations, over 200,000 job listings searching by 'data analyst' 
 **1. Top 3 In-Demand Skills for Employers:<br><br>**
 Most companies require candidates to possess technical skills like R/Python, SQL, machine learning, big data (Spark or Hadoop), cloud platforms (AWS or Azure), Excel, and data visualization tools (Tableau or Power BI). These skills were extracted from the 'Qualifications' section of job descriptions and categorized accordingly.
 
-<p align="left" width="50%" >
+<p align="mid" width="50%" >
     <img width="50%" height=250 src="image/skills.png">
 </p> <br>  
 
