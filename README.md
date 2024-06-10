@@ -1,11 +1,13 @@
 # ***Data Analyst Job Market Analysis***<br><br>
 
+
 ## ***Introduction***
 The project aims to assist individuals in landing their first job as data professionals. The main objectives are pinpointing essential skills for various positions and analyzing job characteristics such as location, educational requirements, and work types. The project includes four parts:
 - Extracted job listings from LinkedIn for April and May 2024 using the search terms 'Data Analyst,' 'Data Scientist,' 'Data Engineer,' and 'Business Analyst.'
 - Explored, cleansed, and normalized data.
 - Used predefined skill sets, including clearance and academic qualifications, and natural language processing (NLP) techniques to identify and binary encode them from job descriptions.
-- Visualized key findings with maps, bar charts, and pie charts.<br>
+- Visualized key findings with maps, bar charts, and pie charts.<br><br>
+
 
 ## ***Summary***
 Contrary to expectations, over 200,000 job listings searching by 'data analyst' and related keywords yielded about 40,000 'Software Engineer' positions and only 14,000 'Data Analyst/Scientist' positions. We will focus on the roles of 'Data Analyst,' 'Data Scientist,' 'Machine Learning Engineer,' and 'Data Engineer.' Below is the word cloud representing all roles and the pie chart depicting four specific roles.
@@ -13,19 +15,24 @@ Contrary to expectations, over 200,000 job listings searching by 'data analyst' 
 <p align="center">
     <img width="75%" height="75%" src="images/all_jobs2.png">
 </p><br>  
+
 <p align="center">
     <img width="75%" height="75%" src="images/roles_pie.png">
-</p><br> 
+</p><br><br>
+
+
+- ***Skills:***<br><br>
+When a skill is mentioned in over 40% of job descriptions for a particular role, it is deemed critical for that position. The chart indicates that SQL and Python/R skills are highly demanded, making certifications and related projects a worthwhile investment. Additionally, the chart provides further insights:
+
+- Data Analyst: The job involves retrieving data using SQL, followed by cleaning and analyzing the data through various methods, primarily using SQL, visualization tools, and occasionally Python or R. The final step is to visualize and present the data insights to stakeholders. 
+- Data Scientist and ML Engineer: The main responsibility of these roles is to develop machine learning models. The key difference is that Data Scientists are still deeply involved in gathering and preprocessing data (SQL is heavily required), while Machine Learning Engineers work in a downstream role, using data that has already been processed.
+- Data Engineer: The position also includes extracting and cleaning data with SQL and Python. However, the processed data is not for presenting data insights or developing machine learning models (no "Viz Tool" or "ML"). Given the emphasis on "Big Data" and "ETL," the job focuses on maintaining, transforming, and building pipelines for massive data sets. 
+
+<img src="images/interested_roles2.png">
 
 
 
 
-**1. Top 3 In-Demand Skills for Employers:<br><br>**
-Most companies require candidates to possess technical skills like R/Python, SQL, machine learning, big data (Spark or Hadoop), cloud platforms (AWS or Azure), Excel, and data visualization tools (Tableau or Power BI). These skills were extracted from the 'Qualifications' section of job descriptions and categorized accordingly.
-
-<p align="mid" width="50%" >
-    <img width="50%" height=250 src="image/skills.png">
-</p> <br>  
 
 **2. Common keywords in job descriptions:<br><br>**
 Identified top job description keywords using the Natural Language Toolkit (NLTK) and created a word cloud. Using these keywords in the resume can enhance compatibility with applicant tracking systems (ATS).
