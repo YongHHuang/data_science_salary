@@ -54,12 +54,12 @@ California and Texas lead in job opportunities, each offering over 3000 position
 <img src="images/job_distribution.gif"><br><br>
 
  
-**3. Average Salaries in Different States:<br><br>**
-The average salary for a data scientist varied from $80,000 to $140,000 across different states. Notably, Washington, California, and New York offered the highest salaries.
+### ***Seniority***<br>
 
-<p align="left" width="50%">
-    <img width="55%" height=300 src="image/salary.png">
-</p> <br> 
+Approximately half of the Data Analyst and Data Scientist positions are labeled as entry-level. Conversely, roles such as Data Engineer and Machine Learning Engineer are generally more advanced, with 56% and 70% requiring mid-senior-level experience. It is important to note that many job descriptions labeled "entry-level" often seek candidates with two to three years of experience.
+
+<img width="55%" height=300 src="images/seniority.png"><br><br>
+
 
 **4. Job Opening Distribution Across States:<br><br>**
 Remote and California led in job openings, with more than double the number of openings compared to the third-ranked state, New York. 
