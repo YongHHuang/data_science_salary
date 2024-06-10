@@ -65,8 +65,8 @@ Approximately half of the Data Analyst and Data Scientist positions are labeled 
 
 The pie charts illustrate the distribution of work and employment types. They show that approximately 80% of positions are full-time, and notably, Data Analysts have around 20% contract roles, which is twice as much as in other positions. 
 
-<p align="center">
-    <img width="75%" height="75%" src="images/employment_worktype.png">
+<p align="center" width="75%" height="75%">
+    <img src="images/employment_worktype.png">
 </p><br><br><br>
 
 
