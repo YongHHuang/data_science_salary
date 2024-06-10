@@ -21,7 +21,7 @@ Contrary to expectations, over 200,000 job listings searching by 'data analyst' 
 </p><br><br>
 
 
-***Skills:***<br>
+### ***Skills:***<br>
 
 When a skill is mentioned in over 40% of job descriptions for a particular role, it is deemed critical for that position. The chart indicates that SQL and Python/R skills are highly demanded, making certifications and related projects a worthwhile investment. Additionally, the chart provides further insights:<br>
 
@@ -46,12 +46,13 @@ To get the chart above, we quantify the skills needed for a job and assign "1" t
 
 
 
-**2. Common keywords in job descriptions:<br><br>**
-Identified top job description keywords using the Natural Language Toolkit (NLTK) and created a word cloud. Using these keywords in the resume can enhance compatibility with applicant tracking systems (ATS).
+### ***Job Opportunities***<br>
 
-<p align="left" width="50%"> 
-    <img width="55%" height=300 src="image/keywords.png">
-</p> <br>
+California and Texas lead in job opportunities, each offering over 3000 positions, while Virginia, New York, Washington, Florida, Illinois, and Maryland each provide over 1000 jobs. The majority of employment is clustered in these eight states. Conversely, half of the states offer fewer than 200 jobs, and two-thirds provide fewer than 500. The maps below show the job opportunity distribution throughout the United States.
+
+<img src="images/job_counts_and_distributios.png">
+<img src="images/job_distribution.gif"><br><br>
+
  
 **3. Average Salaries in Different States:<br><br>**
 The average salary for a data scientist varied from $80,000 to $140,000 across different states. Notably, Washington, California, and New York offered the highest salaries.
