@@ -20,7 +20,7 @@ Contrary to expectations, over 200,000 job listings searching by 'data analyst' 
     <img width="75%" height="75%" src="images/roles_pie.png">
 </p><br>
 
-### ***Skills:***<br>
+### ***1. Skills:***<br>
 
 When a skill is mentioned in over 40% of job descriptions for a particular role, it is deemed critical for that position. The chart indicates that SQL and Python/R skills are highly demanded, making certifications and related projects a worthwhile investment. Additionally, the chart provides further insights:<br>
 
@@ -42,14 +42,14 @@ To get the chart above, we quantify the skills needed for a job and assign "1" t
 - ETL: Words include ETL (extract, transform, and load), data warehouse, and data lake.<br><br>
 
 
-### ***Job Opportunities***<br>
+### ***2. Job Opportunities:***<br>
 
 California and Texas lead in job opportunities, each offering over 3000 positions, while Virginia, New York, Washington, Florida, Illinois, and Maryland each provide over 1000 jobs. The majority of employment is clustered in these eight states. Conversely, half of the states offer fewer than 200 jobs, and two-thirds provide fewer than 500. The maps below show the job opportunity distribution throughout the United States.
 
 <img src="images/job_counts_and_distributios.png">
 <img src="images/job_distribution.gif"><br>
  
-### ***Seniority***<br>
+### ***3. Seniority:***<br>
 
 Approximately half of the Data Analyst and Data Scientist positions are labeled as entry-level. Conversely, roles such as Data Engineer and Machine Learning Engineer are generally more advanced, with 56% and 70% requiring mid-senior-level experience. It is important to note that many job descriptions labeled "entry-level" often seek candidates with two to three years of experience.
 
@@ -57,7 +57,7 @@ Approximately half of the Data Analyst and Data Scientist positions are labeled 
     <img width="75%" height="75%" src="images/seniority.png">
 </p><br>
 
-### ***Work and Employment Type***<br>
+### ***4. Work and Employment Type:***<br>
 
 The pie charts illustrate the distribution of work and employment types. They show that approximately 80% of positions are full-time, and notably, Data Analysts have around 20% contract roles, which is twice as much as in other positions. 
 
@@ -66,7 +66,7 @@ The pie charts illustrate the distribution of work and employment types. They sh
 </p><br><br>
 
 
-### ***Degree***<br>
+### ***5. Degree:***<br>
 
 The charts below illustrate the highest degree required in job descriptions (counting only "Master's" if both "Master's" and "Bachelor's" are mentioned). While roles in Data Analyst and Data Engineer require a 70% Bachelor's degree, Data Scientist and Machine Learning Engineer positions tend to demand a Master's degree, with a 65%. Moreover, approximately 4.5% of Machine Learning Engineer roles demand a PhD, the highest proportion among the others, highlighting the need for advanced theoretical knowledge in this field.
 
