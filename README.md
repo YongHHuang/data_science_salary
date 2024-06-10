@@ -21,7 +21,7 @@ Contrary to expectations, over 200,000 job listings searching by 'data analyst' 
 </p><br><br>
 
 
-- ***Skills:***<br>
+***Skills:***<br>
 
 When a skill is mentioned in over 40% of job descriptions for a particular role, it is deemed critical for that position. The chart indicates that SQL and Python/R skills are highly demanded, making certifications and related projects a worthwhile investment. Additionally, the chart provides further insights:<br>
 
@@ -29,7 +29,18 @@ When a skill is mentioned in over 40% of job descriptions for a particular role,
 - Data Scientist and ML Engineer: The main responsibility of these roles is to develop machine learning models. The key difference is that Data Scientists are still deeply involved in gathering and preprocessing data (SQL is heavily required), while Machine Learning Engineers work in a downstream role, using data that has already been processed.
 - Data Engineer: The position also includes extracting and cleaning data with SQL and Python. However, the processed data is not for presenting data insights or developing machine learning models (no "Viz Tool" or "ML"). Given the emphasis on "Big Data" and "ETL," the job focuses on maintaining, transforming, and building pipelines for massive data sets. 
 
-<img height=250 src="images/interested_roles2.png">
+<img height=250 src="images/interested_roles2.png"><br><br>
+
+
+To get the chart above, we quantify the skills needed for a job and assign "1" to a skill if specific keywords are present in the job description; otherwise, "0". Below are keywords for different skills:<br>
+
+- Python/R: Python, R, and their libraries.
+- SQL: Words include SQL but not NoSQL, relational database, Amazon RDS, Google BigQuery, and IBM Db2.
+- Viz Tool: Tableau, Power BI, and Qlik.
+- ML: Words include machine learning, deep learning, AI, ML, scikit learn, and NLP.
+- Cloud: Words include cloud computing, Amazon Web Service (AWS, EC2, S3, RDS, DynamoDB, Lambda, Redshift), Microsoft Azure, Google Cloud (BigQuery), IBM Cloud, Oracle Cloud, and Salesforce Cloud.
+- Big Data: Words include big data, large scale data, Hadoop, Apache Spark, Kafka, Databrick, terabyte, and petabyte.
+- ETL: Words include ETL (extract, transform, and load), data warehouse, and data lake.<br><br>
 
 
 
