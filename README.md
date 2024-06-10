@@ -57,15 +57,18 @@ Approximately half of the Data Analyst and Data Scientist positions are labeled 
 
 <p align="center">
     <img width="75%" height="75%" src="images/seniority.png">
-</p><br><br>
+</p><br><br><br>
 
 
-**4. Job Opening Distribution Across States:<br><br>**
-Remote and California led in job openings, with more than double the number of openings compared to the third-ranked state, New York. 
 
-<p align="left" width="50%">
-    <img width="55%" height=300 src="image/job_counts.png">
-</p> <br>
+### ***Work and Employment Type***<br>
+
+The pie charts illustrate the distribution of work and employment types. They show that approximately 80% of positions are full-time, and notably, Data Analysts have around 20% contract roles, which is twice as much as in other positions. 
+
+<p align="center">
+    <img width="75%" height="75%" src="images/employment_worktype.png">
+</p><br><br><br>
+
 
 
 ## ***Language and Software***
