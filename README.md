@@ -57,7 +57,7 @@ Approximately half of the Data Analyst and Data Scientist positions are labeled 
 
 <p align="center">
     <img width="75%" height="75%" src="images/seniority.png">
-</p><br><br><br>
+</p><br><br>
 
 
 
@@ -67,7 +67,7 @@ The pie charts illustrate the distribution of work and employment types. They sh
 
 <p align="center">
     <img width="75%" height="75%" src="images/employment_worktype.png">
-</p><br><br><br>
+</p><br><br>
 
 
 
