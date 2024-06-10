@@ -21,8 +21,9 @@ Contrary to expectations, over 200,000 job listings searching by 'data analyst' 
 </p><br><br>
 
 
-- ***Skills:***<br><br>
-When a skill is mentioned in over 40% of job descriptions for a particular role, it is deemed critical for that position. The chart indicates that SQL and Python/R skills are highly demanded, making certifications and related projects a worthwhile investment. Additionally, the chart provides further insights:
+- ***Skills:***<br>
+
+When a skill is mentioned in over 40% of job descriptions for a particular role, it is deemed critical for that position. The chart indicates that SQL and Python/R skills are highly demanded, making certifications and related projects a worthwhile investment. Additionally, the chart provides further insights:<br>
 
 - Data Analyst: The job involves retrieving data using SQL, followed by cleaning and analyzing the data through various methods, primarily using SQL, visualization tools, and occasionally Python or R. The final step is to visualize and present the data insights to stakeholders. 
 - Data Scientist and ML Engineer: The main responsibility of these roles is to develop machine learning models. The key difference is that Data Scientists are still deeply involved in gathering and preprocessing data (SQL is heavily required), while Machine Learning Engineers work in a downstream role, using data that has already been processed.
