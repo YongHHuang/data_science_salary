@@ -48,8 +48,7 @@ To get the chart above, we quantify the skills needed for a job and assign "1" t
 California and Texas lead in job opportunities, each offering over 3000 positions, while Virginia, New York, Washington, Florida, Illinois, and Maryland each provide over 1000 jobs. The majority of employment is clustered in these eight states. Conversely, half of the states offer fewer than 200 jobs, and two-thirds provide fewer than 500. The maps below show the job opportunity distribution throughout the United States.
 
 <img src="images/job_counts_and_distributios.png">
-<img src="images/job_distribution.gif"><br><br>
-
+<img src="images/job_distribution.gif"><br>
  
 ### ***Seniority***<br>
 
@@ -57,9 +56,7 @@ Approximately half of the Data Analyst and Data Scientist positions are labeled 
 
 <p align="center">
     <img width="75%" height="75%" src="images/seniority.png">
-</p><br><br>
-
-
+</p><br>
 
 ### ***Work and Employment Type***<br>
 
