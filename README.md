@@ -28,7 +28,7 @@ When a skill is mentioned in over 40% of job descriptions for a particular role,
 - Data Scientist and ML Engineer: The main responsibility of these roles is to develop machine learning models. The key difference is that Data Scientists are still deeply involved in gathering and preprocessing data (SQL is heavily required), while Machine Learning Engineers work in a downstream role, using data that has already been processed.
 - Data Engineer: The position also includes extracting and cleaning data with SQL and Python. However, the processed data is not for presenting data insights or developing machine learning models (no "Viz Tool" or "ML"). Given the emphasis on "Big Data" and "ETL," the job focuses on maintaining, transforming, and building pipelines for massive data sets. 
 
-<img height=200 src="images/interested_roles2.png">
+<img height=300 src="images/interested_roles2.png">
 
 
 
