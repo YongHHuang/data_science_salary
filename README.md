@@ -13,8 +13,9 @@ Contrary to expectations, over 200,000 job listings searching by 'data analyst' 
 <p align="center">
     <img width="75%" height="75%" src="images/all_jobs2.png">
 </p><br>  
-<img src="images/roles_pie.png">
-
+<p align="center">
+    <img width="75%" height="75%" src="images/roles_pie.png">
+</p><br> 
 
 
 
