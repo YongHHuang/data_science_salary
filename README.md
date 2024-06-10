@@ -63,8 +63,7 @@ The pie charts illustrate the distribution of work and employment types. They sh
 
 <p align="center">
     <img width="75%" height="75%" src="images/employment_worktype.png">
-</p><br><br>
-
+</p><br>
 
 ### ***5. Degree:***<br>
 
