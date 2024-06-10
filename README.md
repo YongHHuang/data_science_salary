@@ -1,17 +1,21 @@
 # ***Data Analyst Job Market Analysis***<br><br>
 
-## ***Software and Language***
-Python 3.12.3
-Tableau Desktop 2024.1.2<br>
+## ***Introduction***
+The project aims to assist individuals in landing their first job as data professionals. The main objectives are pinpointing essential skills for various positions and analyzing job characteristics such as location, educational requirements, and work types. The project includes four parts:
+- Extracted job listings from LinkedIn for April and May 2024 using the search terms 'Data Analyst,' 'Data Scientist,' 'Data Engineer,' and 'Business Analyst.'
+- Explored, cleansed, and normalized data.
+- Used predefined skill sets, including clearance and academic qualifications, and natural language processing (NLP) techniques to identify and binary encode them from job descriptions.
+- Visualized key findings with maps, bar charts, and pie charts.<br>
 
-## ***Project Overview***
-This project aimed to enhance my prospects of securing a data analyst/scientist role by comprehensively understanding the job market. I achieved this by scraping and analyzing job listings from platforms like Glassdoor using Selenium. The primary objectives were:
-- Identified in-demand skills highly sought after by employers.
-- Extracted crucial keywords to enhance resume quality and effectiveness.
-- Examined average salary benchmarks, categorized by job titles and geographical regions.
-- Evaluated job opening distribution across various states.
+## ***Summary***
+Contrary to expectations, over 200,000 job listings searching by 'data analyst' and related keywords yielded about 40,000 'Software Engineer' positions and only 14,000 'Data Analyst/Scientist' positions. We will focus on the roles of 'Data Analyst,' 'Data Scientist,' 'Machine Learning Engineer,' and 'Data Engineer.' Below is the word cloud representing all roles and the pie chart depicting four specific roles.
 
-## ***Results***
+<p align="left" width="50%" >
+    <img width="55%" height=250 src="image/all_jobs.png">
+</p> <br>
+
+
+
 **1. Top 3 In-Demand Skills for Employers:<br><br>**
 Most companies require candidates to possess technical skills like R/Python, SQL, machine learning, big data (Spark or Hadoop), cloud platforms (AWS or Azure), Excel, and data visualization tools (Tableau or Power BI). These skills were extracted from the 'Qualifications' section of job descriptions and categorized accordingly.
 
@@ -39,6 +43,20 @@ Remote and California led in job openings, with more than double the number of o
 <p align="left" width="50%">
     <img width="55%" height=300 src="image/job_counts.png">
 </p> <br>
+
+
+## ***Language and Software***
+Python 3.12.3
+Tableau Desktop 2024.1.2<br>
+
+## ***Project Overview***
+This project aimed to enhance my prospects of securing a data analyst/scientist role by comprehensively understanding the job market. I achieved this by scraping and analyzing job listings from platforms like Glassdoor using Selenium. The primary objectives were:
+- Identified in-demand skills highly sought after by employers.
+- Extracted crucial keywords to enhance resume quality and effectiveness.
+- Examined average salary benchmarks, categorized by job titles and geographical regions.
+- Evaluated job opening distribution across various states.
+
+
 
 
 ## Code and Resources Used
