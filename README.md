@@ -55,7 +55,9 @@ California and Texas lead in job opportunities, each offering over 3000 position
 
 Approximately half of the Data Analyst and Data Scientist positions are labeled as entry-level. Conversely, roles such as Data Engineer and Machine Learning Engineer are generally more advanced, with 56% and 70% requiring mid-senior-level experience. It is important to note that many job descriptions labeled "entry-level" often seek candidates with two to three years of experience.
 
-<img src="images/seniority.png"><br><br>
+<p align="center">
+    <img width="75%" height="75%" src="images/seniority.png">
+</p><br><br>
 
 
 **4. Job Opening Distribution Across States:<br><br>**
