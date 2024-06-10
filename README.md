@@ -76,8 +76,10 @@ The charts below illustrate the highest degree required in job descriptions (cou
 
 
 ## ***Language and Software***
-Python 3.12.3
-Tableau Desktop 2024.1.2<br>
+- Jupyter Lab 4.2.0
+- Python 3.12.3
+- Python Library: requests, BeautifulSoup, numpy, pandas, regex, nltk, matplotlib, seaborn, wordCloud, sklearn
+- Tableau 2024.1
 
 ## ***Project Overview***
 This project aimed to enhance my prospects of securing a data analyst/scientist role by comprehensively understanding the job market. I achieved this by scraping and analyzing job listings from platforms like Glassdoor using Selenium. The primary objectives were:
