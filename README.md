@@ -11,7 +11,7 @@ The project aims to assist individuals in landing their first job as data profes
 Contrary to expectations, over 200,000 job listings searching by 'data analyst' and related keywords yielded about 40,000 'Software Engineer' positions and only 14,000 'Data Analyst/Scientist' positions. We will focus on the roles of 'Data Analyst,' 'Data Scientist,' 'Machine Learning Engineer,' and 'Data Engineer.' Below is the word cloud representing all roles and the pie chart depicting four specific roles.
 
 <p align="left" width="50%" >
-    <img width="55%" height=250 src="images/all_jobs.png">
+    <img width="55%" height=250 src="images/all_jobs2.png">
 </p> <br>
 
 
