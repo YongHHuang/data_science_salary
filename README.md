@@ -18,8 +18,7 @@ Contrary to expectations, over 200,000 job listings searching by 'data analyst' 
 
 <p align="center">
     <img width="75%" height="75%" src="images/roles_pie.png">
-</p><br><br>
-
+</p><br>
 
 ### ***Skills:***<br>
 
@@ -66,6 +65,14 @@ The pie charts illustrate the distribution of work and employment types. They sh
     <img width="75%" height="75%" src="images/employment_worktype.png">
 </p><br><br>
 
+
+### ***Degree***<br>
+
+The charts below illustrate the highest degree required in job descriptions (counting only "Master's" if both "Master's" and "Bachelor's" are mentioned). While roles in Data Analyst and Data Engineer require a 70% Bachelor's degree, Data Scientist and Machine Learning Engineer positions tend to demand a Master's degree, with a 65%. Moreover, approximately 4.5% of Machine Learning Engineer roles demand a PhD, the highest proportion among the others, highlighting the need for advanced theoretical knowledge in this field.
+
+<p align="center">
+    <img width="75%" height="75%" src="images/degree.png">
+</p><br><br>
 
 
 ## ***Language and Software***
