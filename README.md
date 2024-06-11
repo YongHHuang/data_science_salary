@@ -1,4 +1,4 @@
-# ***Data Analyst Job Market Analysis***<br><br>
+# ***Data Professional Job Analysis***<br><br>
 
 
 ## ***Introduction***
