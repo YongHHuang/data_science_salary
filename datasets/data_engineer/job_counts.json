@@ -1,0 +1,924 @@
+{
+    "california": {
+        "day_element": [
+            "  Any time (15,079)",
+            "\u2713 Past month (7,175)",
+            "  Past week (2,812)",
+            "  Past 24 hours (116)"
+        ],
+        "worktype_element": [
+            "  On-site (4,874)",
+            "  Hybrid (1,530)",
+            "  Remote (845)"
+        ],
+        "exp_element": [
+            "  Internship (69)",
+            "  Entry level (836)",
+            "  Associate (226)",
+            "  Mid-Senior level (4,504)",
+            "  Director (51)"
+        ]
+    },
+    "texas": {
+        "day_element": [
+            "  Any time (6,995)",
+            "\u2713 Past month (4,067)",
+            "  Past week (1,522)",
+            "  Past 24 hours (85)"
+        ],
+        "worktype_element": [
+            "  On-site (2,701)",
+            "  Hybrid (846)",
+            "  Remote (446)"
+        ],
+        "exp_element": [
+            "  Internship (42)",
+            "  Entry level (711)",
+            "  Associate (150)",
+            "  Mid-Senior level (2,413)",
+            "  Director (17)"
+        ]
+    },
+    "new_york": {
+        "day_element": [
+            "  Any time (4,588)",
+            "\u2713 Past month (2,499)",
+            "  Past week (863)",
+            "  Past 24 hours (54)"
+        ],
+        "worktype_element": [
+            "  On-site (1,583)",
+            "  Hybrid (612)",
+            "  Remote (313)"
+        ],
+        "exp_element": [
+            "  Internship (25)",
+            "  Entry level (396)",
+            "  Associate (84)",
+            "  Mid-Senior level (1,540)",
+            "  Director (15)"
+        ]
+    },
+    "washington": {
+        "day_element": [
+            "  Any time (5,562)",
+            "\u2713 Past month (3,438)",
+            "  Past week (1,149)",
+            "  Past 24 hours (31)"
+        ],
+        "worktype_element": [
+            "  On-site (2,620)",
+            "  Hybrid (466)",
+            "  Remote (320)"
+        ],
+        "exp_element": [
+            "  Internship (14)",
+            "  Entry level (279)",
+            "  Associate (55)",
+            "  Mid-Senior level (2,305)",
+            "  Director (19)"
+        ]
+    },
+    "alabama": {
+        "day_element": [
+            "  Any time (750)",
+            "\u2713 Past month (449)",
+            "  Past week (240)",
+            "  Past 24 hours (13)"
+        ],
+        "worktype_element": [
+            "  On-site (353)",
+            "  Hybrid (56)",
+            "  Remote (40)"
+        ],
+        "exp_element": [
+            "  Internship (1)",
+            "  Entry level (114)",
+            "  Associate (8)",
+            "  Mid-Senior level (280)"
+        ]
+    },
+    "arizona": {
+        "day_element": [
+            "  Any time (1,493)",
+            "\u2713 Past month (788)",
+            "  Past week (360)",
+            "  Past 24 hours (47)"
+        ],
+        "worktype_element": [
+            "  On-site (529)",
+            "  Hybrid (143)",
+            "  Remote (110)"
+        ],
+        "exp_element": [
+            "  Internship (2)",
+            "  Entry level (143)",
+            "  Associate (23)",
+            "  Mid-Senior level (460)",
+            "  Director (7)"
+        ]
+    },
+    "arkansas": {
+        "day_element": [
+            "  Any time (363)",
+            "\u2713 Past month (282)",
+            "  Past week (200)",
+            "  Past 24 hours (2)"
+        ],
+        "worktype_element": [
+            "  On-site (234)",
+            "  Hybrid (26)",
+            "  Remote (21)"
+        ],
+        "exp_element": [
+            "  Internship (1)",
+            "  Entry level (47)",
+            "  Associate (4)",
+            "  Mid-Senior level (208)",
+            "  Director (1)"
+        ]
+    },
+    "colorado": {
+        "day_element": [
+            "  Any time (1,960)",
+            "\u2713 Past month (1,144)",
+            "  Past week (588)",
+            "  Past 24 hours (35)"
+        ],
+        "worktype_element": [
+            "  On-site (845)",
+            "  Hybrid (194)",
+            "  Remote (98)"
+        ],
+        "exp_element": [
+            "  Internship (2)",
+            "  Entry level (185)",
+            "  Associate (32)",
+            "  Mid-Senior level (781)",
+            "  Director (3)"
+        ]
+    },
+    "connecticut": {
+        "day_element": [
+            "  Any time (752)",
+            "\u2713 Past month (395)",
+            "  Past week (179)",
+            "  Past 24 hours (52)"
+        ],
+        "worktype_element": [
+            "  On-site (249)",
+            "  Hybrid (101)",
+            "  Remote (40)"
+        ],
+        "exp_element": [
+            "  Internship (1)",
+            "  Entry level (55)",
+            "  Associate (19)",
+            "  Mid-Senior level (187)",
+            "  Director (2)"
+        ]
+    },
+    "delaware": {
+        "day_element": [
+            "  Any time (279)",
+            "\u2713 Past month (187)",
+            "  Past week (103)",
+            "  Past 24 hours (68)"
+        ],
+        "worktype_element": [
+            "  On-site (164)",
+            "  Hybrid (15)",
+            "  Remote (8)"
+        ],
+        "exp_element": [
+            "  Internship (1)",
+            "  Entry level (17)",
+            "  Associate (5)",
+            "  Mid-Senior level (50)"
+        ]
+    },
+    "florida": {
+        "day_element": [
+            "  Any time (2,887)",
+            "\u2713 Past month (1,641)",
+            "  Past week (793)",
+            "  Past 24 hours (61)"
+        ],
+        "worktype_element": [
+            "  On-site (1,067)",
+            "  Hybrid (338)",
+            "  Remote (226)"
+        ],
+        "exp_element": [
+            "  Internship (13)",
+            "  Entry level (350)",
+            "  Associate (80)",
+            "  Mid-Senior level (1,028)",
+            "  Director (6)"
+        ]
+    },
+    "georgia": {
+        "day_element": [
+            "  Any time (2,386)",
+            "\u2713 Past month (1,372)",
+            "  Past week (564)",
+            "  Past 24 hours (50)"
+        ],
+        "worktype_element": [
+            "  On-site (864)",
+            "  Hybrid (350)",
+            "  Remote (161)"
+        ],
+        "exp_element": [
+            "  Internship (20)",
+            "  Entry level (256)",
+            "  Associate (51)",
+            "  Mid-Senior level (794)",
+            "  Director (6)"
+        ]
+    },
+    "idaho": {
+        "day_element": [
+            "  Any time (191)",
+            "\u2713 Past month (92)",
+            "  Past week (32)",
+            "  Past 24 hours (3)"
+        ],
+        "worktype_element": [
+            "  On-site (49)",
+            "  Remote (33)",
+            "  Hybrid (10)"
+        ],
+        "exp_element": [
+            "  Internship (2)",
+            "  Entry level (24)",
+            "  Associate (1)",
+            "  Mid-Senior level (54)"
+        ]
+    },
+    "illinois": {
+        "day_element": [
+            "  Any time (2,662)",
+            "\u2713 Past month (1,502)",
+            "  Past week (619)",
+            "  Past 24 hours (130)"
+        ],
+        "worktype_element": [
+            "  On-site (992)",
+            "  Hybrid (361)",
+            "  Remote (172)"
+        ],
+        "exp_element": [
+            "  Internship (13)",
+            "  Entry level (296)",
+            "  Associate (76)",
+            "  Mid-Senior level (825)",
+            "  Director (10)"
+        ]
+    },
+    "indiana": {
+        "day_element": [
+            "  Any time (703)",
+            "\u2713 Past month (400)",
+            "  Past week (182)",
+            "  Past 24 hours (50)"
+        ],
+        "worktype_element": [
+            "  On-site (315)",
+            "  Hybrid (48)",
+            "  Remote (36)"
+        ],
+        "exp_element": [
+            "  Internship (2)",
+            "  Entry level (118)",
+            "  Associate (15)",
+            "  Mid-Senior level (188)",
+            "  Director (3)"
+        ]
+    },
+    "iowa": {
+        "day_element": [
+            "  Any time (482)",
+            "\u2713 Past month (255)",
+            "  Past week (88)",
+            "  Past 24 hours (5)"
+        ],
+        "worktype_element": [
+            "  On-site (185)",
+            "  Hybrid (39)",
+            "  Remote (27)"
+        ],
+        "exp_element": [
+            "  Entry level (78)",
+            "  Associate (4)",
+            "  Mid-Senior level (138)"
+        ]
+    },
+    "kansas": {
+        "day_element": [
+            "  Any time (456)",
+            "\u2713 Past month (210)",
+            "  Past week (69)",
+            "  Past 24 hours (5)"
+        ],
+        "worktype_element": [
+            "  On-site (116)",
+            "  Remote (58)",
+            "  Hybrid (36)"
+        ],
+        "exp_element": [
+            "  Internship (8)",
+            "  Entry level (68)",
+            "  Associate (3)",
+            "  Mid-Senior level (111)",
+            "  Director (1)"
+        ]
+    },
+    "kentucky": {
+        "day_element": [
+            "  Any time (224)",
+            "\u2713 Past month (133)",
+            "  Past week (52)",
+            "  Past 24 hours (8)"
+        ],
+        "worktype_element": [
+            "  On-site (95)",
+            "  Remote (21)",
+            "  Hybrid (16)"
+        ],
+        "exp_element": [
+            "  Internship (5)",
+            "  Entry level (43)",
+            "  Associate (5)",
+            "  Mid-Senior level (55)"
+        ]
+    },
+    "louisiana": {
+        "day_element": [
+            "  Any time (208)",
+            "\u2713 Past month (130)",
+            "  Past week (56)",
+            "  Past 24 hours (4)"
+        ],
+        "worktype_element": [
+            "  On-site (98)",
+            "  Remote (20)",
+            "  Hybrid (10)"
+        ],
+        "exp_element": [
+            "  Entry level (39)",
+            "  Mid-Senior level (50)"
+        ]
+    },
+    "maine": {
+        "day_element": [
+            "  Any time (153)",
+            "\u2713 Past month (77)",
+            "  Past week (28)",
+            "  Past 24 hours (10)"
+        ],
+        "worktype_element": [
+            "  On-site (46)",
+            "  Remote (21)",
+            "  Hybrid (10)"
+        ],
+        "exp_element": [
+            "  Entry level (18)",
+            "  Associate (4)",
+            "  Mid-Senior level (33)"
+        ]
+    },
+    "maryland": {
+        "day_element": [
+            "  Any time (5,539)",
+            "\u2713 Past month (3,576)",
+            "  Past week (2,491)",
+            "  Past 24 hours (220)"
+        ],
+        "worktype_element": [
+            "  On-site (3,116)",
+            "  Hybrid (341)",
+            "  Remote (105)"
+        ],
+        "exp_element": [
+            "  Internship (7)",
+            "  Entry level (564)",
+            "  Associate (42)",
+            "  Mid-Senior level (2,528)",
+            "  Director (9)"
+        ]
+    },
+    "massachusetts": {
+        "day_element": [
+            "  Any time (2,780)",
+            "\u2713 Past month (1,566)",
+            "  Past week (602)",
+            "  Past 24 hours (80)"
+        ],
+        "worktype_element": [
+            "  On-site (1,080)",
+            "  Hybrid (343)",
+            "  Remote (145)"
+        ],
+        "exp_element": [
+            "  Internship (17)",
+            "  Entry level (209)",
+            "  Associate (53)",
+            "  Mid-Senior level (1,014)",
+            "  Director (12)"
+        ]
+    },
+    "michigan": {
+        "day_element": [
+            "  Any time (1,846)",
+            "\u2713 Past month (1,070)",
+            "  Past week (425)",
+            "  Past 24 hours (57)"
+        ],
+        "worktype_element": [
+            "  On-site (695)",
+            "  Hybrid (296)",
+            "  Remote (72)"
+        ],
+        "exp_element": [
+            "  Internship (6)",
+            "  Entry level (254)",
+            "  Associate (36)",
+            "  Mid-Senior level (592)",
+            "  Director (5)"
+        ]
+    },
+    "minnesota": {
+        "day_element": [
+            "  Any time (974)",
+            "\u2713 Past month (550)",
+            "  Past week (223)",
+            "  Past 24 hours (24)"
+        ],
+        "worktype_element": [
+            "  On-site (323)",
+            "  Remote (116)",
+            "  Hybrid (104)"
+        ],
+        "exp_element": [
+            "  Internship (5)",
+            "  Entry level (143)",
+            "  Associate (19)",
+            "  Mid-Senior level (322)"
+        ]
+    },
+    "mississippi": {
+        "day_element": [
+            "  Any time (103)",
+            "\u2713 Past month (77)",
+            "  Past week (37)",
+            "  Past 24 hours (8)"
+        ],
+        "worktype_element": [
+            "  On-site (67)",
+            "  Remote (7)",
+            "  Hybrid (3)"
+        ],
+        "exp_element": [
+            "  Internship (1)",
+            "  Entry level (31)",
+            "  Associate (2)",
+            "  Mid-Senior level (28)"
+        ]
+    },
+    "missouri": {
+        "day_element": [
+            "  Any time (811)",
+            "\u2713 Past month (458)",
+            "  Past week (211)",
+            "  Past 24 hours (9)"
+        ],
+        "worktype_element": [
+            "  On-site (300)",
+            "  Hybrid (88)",
+            "  Remote (66)"
+        ],
+        "exp_element": [
+            "  Internship (9)",
+            "  Entry level (106)",
+            "  Associate (14)",
+            "  Mid-Senior level (230)",
+            "  Director (2)"
+        ]
+    },
+    "montana": {
+        "day_element": [
+            "  Any time (99)",
+            "\u2713 Past month (37)",
+            "  Past week (13)"
+        ],
+        "worktype_element": [
+            "  On-site (28)",
+            "  Remote (6)",
+            "  Hybrid (3)"
+        ],
+        "exp_element": [
+            "  Internship (1)",
+            "  Entry level (11)",
+            "  Mid-Senior level (20)"
+        ]
+    },
+    "nebraska": {
+        "day_element": [
+            "  Any time (290)",
+            "\u2713 Past month (154)",
+            "  Past week (73)",
+            "  Past 24 hours (10)"
+        ],
+        "worktype_element": [
+            "  On-site (97)",
+            "  Remote (45)",
+            "  Hybrid (10)"
+        ],
+        "exp_element": [
+            "  Internship (5)",
+            "  Entry level (56)",
+            "  Associate (5)",
+            "  Mid-Senior level (76)"
+        ]
+    },
+    "nevada": {
+        "day_element": [
+            "  Any time (409)",
+            "\u2713 Past month (218)",
+            "  Past week (93)",
+            "  Past 24 hours (18)"
+        ],
+        "worktype_element": [
+            "  On-site (152)",
+            "  Remote (36)",
+            "  Hybrid (29)"
+        ],
+        "exp_element": [
+            "  Internship (2)",
+            "  Entry level (59)",
+            "  Associate (18)",
+            "  Mid-Senior level (122)"
+        ]
+    },
+    "new_hampshire": {
+        "day_element": [
+            "  Any time (291)",
+            "\u2713 Past month (191)",
+            "  Past week (116)",
+            "  Past 24 hours (32)"
+        ],
+        "worktype_element": [
+            "  On-site (151)",
+            "  Hybrid (27)",
+            "  Remote (12)"
+        ],
+        "exp_element": [
+            "  Internship (1)",
+            "  Entry level (27)",
+            "  Associate (5)",
+            "  Mid-Senior level (116)"
+        ]
+    },
+    "new_jersey": {
+        "day_element": [
+            "  Any time (2,098)",
+            "\u2713 Past month (1,140)",
+            "  Past week (448)",
+            "  Past 24 hours (100)"
+        ],
+        "worktype_element": [
+            "  On-site (790)",
+            "  Hybrid (276)",
+            "  Remote (75)"
+        ],
+        "exp_element": [
+            "  Internship (15)",
+            "  Entry level (219)",
+            "  Associate (34)",
+            "  Mid-Senior level (603)",
+            "  Director (6)"
+        ]
+    },
+    "new_mexico": {
+        "day_element": [
+            "  Any time (219)",
+            "\u2713 Past month (113)",
+            "  Past week (60)",
+            "  Past 24 hours (2)"
+        ],
+        "worktype_element": [
+            "  On-site (89)",
+            "  Remote (14)",
+            "  Hybrid (10)"
+        ],
+        "exp_element": [
+            "  Entry level (28)",
+            "  Associate (3)",
+            "  Mid-Senior level (66)"
+        ]
+    },
+    "north_carolina": {
+        "day_element": [
+            "  Any time (2,342)",
+            "\u2713 Past month (1,408)",
+            "  Past week (607)",
+            "  Past 24 hours (66)"
+        ],
+        "worktype_element": [
+            "  On-site (914)",
+            "  Hybrid (275)",
+            "  Remote (180)"
+        ],
+        "exp_element": [
+            "  Internship (14)",
+            "  Entry level (278)",
+            "  Associate (38)",
+            "  Mid-Senior level (781)",
+            "  Director (3)"
+        ]
+    },
+    "north_dakota": {
+        "day_element": [
+            "  Any time (75)",
+            "\u2713 Past month (36)",
+            "  Past week (11)"
+        ],
+        "worktype_element": [
+            "  On-site (23)",
+            "  Hybrid (7)",
+            "  Remote (6)"
+        ],
+        "exp_element": [
+            "  Entry level (11)",
+            "  Mid-Senior level (19)"
+        ]
+    },
+    "ohio": {
+        "day_element": [
+            "  Any time (1,974)",
+            "\u2713 Past month (1,016)",
+            "  Past week (416)",
+            "  Past 24 hours (48)"
+        ],
+        "worktype_element": [
+            "  On-site (740)",
+            "  Hybrid (160)",
+            "  Remote (105)"
+        ],
+        "exp_element": [
+            "  Internship (10)",
+            "  Entry level (251)",
+            "  Associate (38)",
+            "  Mid-Senior level (571)",
+            "  Director (1)"
+        ]
+    },
+    "oklahoma": {
+        "day_element": [
+            "  Any time (421)",
+            "\u2713 Past month (196)",
+            "  Past week (91)",
+            "  Past 24 hours (11)"
+        ],
+        "worktype_element": [
+            "  On-site (107)",
+            "  Remote (66)",
+            "  Hybrid (21)"
+        ],
+        "exp_element": [
+            "  Entry level (73)",
+            "  Associate (6)",
+            "  Mid-Senior level (89)"
+        ]
+    },
+    "oregon": {
+        "day_element": [
+            "  Any time (620)",
+            "\u2713 Past month (351)",
+            "  Past week (141)",
+            "  Past 24 hours (17)"
+        ],
+        "worktype_element": [
+            "  On-site (210)",
+            "  Hybrid (68)",
+            "  Remote (66)"
+        ],
+        "exp_element": [
+            "  Internship (1)",
+            "  Entry level (55)",
+            "  Associate (5)",
+            "  Mid-Senior level (184)",
+            "  Director (3)"
+        ]
+    },
+    "pennsylvania": {
+        "day_element": [
+            "  Any time (2,006)",
+            "\u2713 Past month (1,146)",
+            "  Past week (588)",
+            "  Past 24 hours (192)"
+        ],
+        "worktype_element": [
+            "  On-site (746)",
+            "  Hybrid (227)",
+            "  Remote (193)"
+        ],
+        "exp_element": [
+            "  Internship (12)",
+            "  Entry level (234)",
+            "  Associate (46)",
+            "  Mid-Senior level (579)",
+            "  Director (9)"
+        ]
+    },
+    "south_carolina": {
+        "day_element": [
+            "  Any time (428)",
+            "\u2713 Past month (255)",
+            "  Past week (114)",
+            "  Past 24 hours (11)"
+        ],
+        "worktype_element": [
+            "  On-site (194)",
+            "  Hybrid (36)",
+            "  Remote (25)"
+        ],
+        "exp_element": [
+            "  Internship (2)",
+            "  Entry level (60)",
+            "  Associate (10)",
+            "  Mid-Senior level (143)",
+            "  Director (1)"
+        ]
+    },
+    "south_dakota": {
+        "day_element": [
+            "  Any time (66)",
+            "\u2713 Past month (35)",
+            "  Past week (14)",
+            "  Past 24 hours (2)"
+        ],
+        "worktype_element": [
+            "  On-site (25)",
+            "  Remote (7)",
+            "  Hybrid (3)"
+        ],
+        "exp_element": [
+            "  Internship (1)",
+            "  Entry level (7)",
+            "  Mid-Senior level (19)"
+        ]
+    },
+    "tennessee": {
+        "day_element": [
+            "  Any time (651)",
+            "\u2713 Past month (361)",
+            "  Past week (145)",
+            "  Past 24 hours (18)"
+        ],
+        "worktype_element": [
+            "  On-site (219)",
+            "  Remote (79)",
+            "  Hybrid (58)"
+        ],
+        "exp_element": [
+            "  Internship (2)",
+            "  Entry level (63)",
+            "  Associate (21)",
+            "  Mid-Senior level (211)"
+        ]
+    },
+    "utah": {
+        "day_element": [
+            "  Any time (596)",
+            "\u2713 Past month (302)",
+            "  Past week (129)",
+            "  Past 24 hours (10)"
+        ],
+        "worktype_element": [
+            "  On-site (216)",
+            "  Hybrid (50)",
+            "  Remote (36)"
+        ],
+        "exp_element": [
+            "  Internship (4)",
+            "  Entry level (50)",
+            "  Associate (10)",
+            "  Mid-Senior level (202)",
+            "  Director (1)"
+        ]
+    },
+    "vermont": {
+        "day_element": [
+            "  Any time (70)",
+            "\u2713 Past month (40)",
+            "  Past week (18)",
+            "  Past 24 hours (5)"
+        ],
+        "worktype_element": [
+            "  On-site (20)",
+            "  Remote (15)",
+            "  Hybrid (4)"
+        ],
+        "exp_element": [
+            "  Internship (1)",
+            "  Entry level (19)",
+            "  Mid-Senior level (13)"
+        ]
+    },
+    "virginia": {
+        "day_element": [
+            "  Any time (6,729)",
+            "\u2713 Past month (4,348)",
+            "  Past week (2,808)",
+            "  Past 24 hours (393)"
+        ],
+        "worktype_element": [
+            "  On-site (3,684)",
+            "  Hybrid (474)",
+            "  Remote (169)"
+        ],
+        "exp_element": [
+            "  Internship (18)",
+            "  Entry level (897)",
+            "  Associate (66)",
+            "  Mid-Senior level (2,784)",
+            "  Director (10)"
+        ]
+    },
+    "west_virginia": {
+        "day_element": [
+            "  Any time (71)",
+            "\u2713 Past month (25)",
+            "  Past week (15)",
+            "  Past 24 hours (1)"
+        ],
+        "worktype_element": [
+            "  On-site (22)",
+            "  Remote (2)",
+            "  Hybrid (1)"
+        ],
+        "exp_element": [
+            "  Internship (1)",
+            "  Entry level (9)",
+            "  Mid-Senior level (13)"
+        ]
+    },
+    "wisconsin": {
+        "day_element": [
+            "  Any time (762)",
+            "\u2713 Past month (394)",
+            "  Past week (189)",
+            "  Past 24 hours (56)"
+        ],
+        "worktype_element": [
+            "  On-site (247)",
+            "  Hybrid (81)",
+            "  Remote (65)"
+        ],
+        "exp_element": [
+            "  Internship (3)",
+            "  Entry level (110)",
+            "  Associate (11)",
+            "  Mid-Senior level (189)",
+            "  Director (2)"
+        ]
+    },
+    "wyoming": {
+        "day_element": [
+            "  Any time (22)",
+            "\u2713 Past month (12)",
+            "  Past week (9)",
+            "  Past 24 hours (3)"
+        ],
+        "worktype_element": [
+            "  On-site (9)",
+            "  Remote (3)"
+        ],
+        "exp_element": [
+            "  Entry level (5)",
+            "  Mid-Senior level (4)"
+        ]
+    },
+    "district_of_columbia": {
+        "day_element": [
+            "  Any time (1,393)",
+            "\u2713 Past month (816)",
+            "  Past week (484)",
+            "  Past 24 hours (97)"
+        ],
+        "worktype_element": [
+            "  On-site (601)",
+            "  Hybrid (141)",
+            "  Remote (71)"
+        ],
+        "exp_element": [
+            "  Internship (1)",
+            "  Entry level (107)",
+            "  Associate (16)",
+            "  Mid-Senior level (519)",
+            "  Director (4)"
+        ]
+    }
+}
