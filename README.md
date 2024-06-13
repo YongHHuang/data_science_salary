@@ -2,7 +2,13 @@
 
 
 ## ***Introduction***
-The project aims to assist individuals in landing their first job as data professionals. The main objectives are pinpointing essential skills for various positions and analyzing job characteristics such as location, educational requirements, and work types. The project includes four parts:
+This project aims to help data professionals land their first job. We will derive insights from data to answer the following questions:
+- What are the most essential technical skills for various roles?
+- Which locations offer the most job opportunities?
+- What are the current market trends regarding job types and work types?
+- What are additional requirements like seniority, educational qualifications, and security clearance?<br><br>
+
+The project includes four parts:
 - Extracted job listings from LinkedIn for April and May 2024 using the search terms 'Data Analyst,' 'Data Scientist,' 'Data Engineer,' and 'Business Analyst.'
 - Explored, cleansed, and normalized data.
 - Used predefined skill sets, including clearance and academic qualifications, and natural language processing (NLP) techniques to identify and binary encode them from job descriptions.
